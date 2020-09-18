@@ -17,6 +17,9 @@ menu:
   - name: 常用工具
     icon: far fa-star
     config: hotTools
+  - name: BITREN
+    icon: far fa-star
+    config: bitTools
   - name: 其他工具
     icon: fas fa-tools
     submenu:
@@ -41,6 +44,20 @@ devTools:
     img: /images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
 
+bitTools:
+  - name: BIT
+    url: http://bit.edu.cn/
+    img: /images/logos/github.png
+    description: 北京理工大学
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 面向开源及私有软件项目的托管平台。
+  - name: Github
+    url: https://github.com/
+    img: /images/logos/github.png
+    description: 面向开源及私有软件项目的托管平台。
+
 hotTools:
   - name: Github
     url: https://github.com/
@@ -56,10 +73,10 @@ hotTools:
     description: 面向开源及私有软件项目的托管平台。
 
 myBlog:
-  - name: Guider.Top
-    url: https://guider.top/
+  - name: HJI.ZONE
+    url: https://hji.zone/
     img: /images/logos/myBlog.png
-    description: Guider for Top
+    description: Huan Jiang's Information Zone.
 
 about:
   url: /about/
