@@ -103,17 +103,49 @@ devTools:
 
 bitTools:
   - name: BIT
-    url: http://bit.edu.cn/
-    img: /images/logos/github.png
+    url: http://www.bit.edu.cn/
+    img: /images/logos/bit.jpg
     description: 北京理工大学
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
+  - name: 综合服务平台
+    url: http://online.bit.edu.cn/eip/nonlogin/toFusionPortalWainPage.htm
+    img: /images/logos/bit-could.png
+    description: 北京理工大学综合信息服务平台|北理云
+  - name: 研究院
+    url: http://grd.bit.edu.cn/
+    img: /images/logos/bit-grd.png
+    description: 北京理工大学研究生院
+  - name: 宇航学院
+    url: http://sae.bit.edu.cn/
+    img: /images/logos/bit-sae.png
+    description: 北京理工大学宇航学院
+  - name: 图书馆
+    url: http://lib.bit.edu.cn/
+    img: /images/logos/bit.jpg
+    description: 北京理工大学图书馆
+  - name: 就业信息网
+    url: http://job.bit.edu.cn/
+    img: /images/logos/bit-job.png
+    description: 北京理工大学就业信息网
+  - name: 网络信息服务中心
+    url: http://job.bit.edu.cn/
+    img: /images/logos/bit-job.png
+    description: 北京理工大学网络信息技术中心
+  - name: 正版软件管理平台
+    url: http://ca.bit.edu.cn/
+    img: /images/logos/bit-ca.png
+    description: 北京理工大学正版软件管理平台
+  - name: FTP联盟
+    url: http://www.bitunion.org/
+    img: /images/logos/bit-ftp.jpg
+    description: 做有争议的联盟，做有争议的人
+  - name: IPTV
+    url: http://iptv.bit.edu.cn/
+    img: /images/logos/bit-iptv.jpg
+    description: 北京理工大学网络电视
+  - name: 邮箱
+    url: http://mail.bit.edu.cn/
+    img: /images/logos/bit-mail.jpg
+    description: 北京理工大学邮箱系统
 
 hotTools:
   - name: Github
