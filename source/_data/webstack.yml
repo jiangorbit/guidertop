@@ -127,8 +127,8 @@ bitTools:
     img: /images/logos/bit-job.png
     description: 北京理工大学就业信息网
   - name: 网络信息服务中心
-    url: http://job.bit.edu.cn/
-    img: /images/logos/bit-job.png
+    url: http://nsc.bit.edu.cn/
+    img: /images/logos/bit-nsc.png
     description: 北京理工大学网络信息技术中心
   - name: 正版软件管理平台
     url: http://ca.bit.edu.cn/
