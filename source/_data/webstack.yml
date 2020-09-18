@@ -75,6 +75,18 @@ driveWorks:
     img: /images/logos/github.png
     description: XXXXXXXXXXXXXXx
 
+scholarSpace:
+  - name: Demo4
+    url: Demo
+    img: /images/logos/github.png
+    description: XXXXXXXXXXXXXXx
+
+sciResources:
+  - name: Demo4
+    url: Demo
+    img: /images/logos/github.png
+    description: XXXXXXXXXXXXXXx
+
 devTools:
   - name: Github
     url: https://github.com/
