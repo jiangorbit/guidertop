@@ -20,7 +20,28 @@ menu:
   - name: BITREN
     icon: far fa-star
     config: bitTools
-  - name: 其他工具
+  - name: 办公学习
+    icon: far fa-star
+    submenu:
+      - name: 云办公
+        icon: fas fa-tools
+        config: cloudWorks
+      - name: 文档笔记
+        icon: fas fa-tools
+        config: writeWorks
+      - name: 邮件系统
+        icon: fas fa-tools
+        config: mailWorks
+      - name: 网盘存储
+        icon: fas fa-tools
+        config: driveWorks
+  - name: 学术空间
+    icon: far fa-star
+    config: scholarSpace
+  - name: 科研资源
+    icon: far fa-star
+    config: sciResources
+  - name: 常用工具
     icon: fas fa-tools
     submenu:
       - name: 开发工具
@@ -29,6 +50,30 @@ menu:
       - name: 我的博客
         icon: fas fa-blog
         config: myBlog
+
+cloudWorks:
+  - name: Demo1
+    url: Demo
+    img: /images/logos/github.png
+    description: XXXXXXXXXXXXXXx
+
+writeWorks:
+  - name: Demo2
+    url: Demo
+    img: /images/logos/github.png
+    description: XXXXXXXXXXXXXXx
+    
+mailWorks:
+  - name: Demo3
+    url: Demo
+    img: /images/logos/github.png
+    description: XXXXXXXXXXXXXXx
+
+driveWorks:
+  - name: Demo4
+    url: Demo
+    img: /images/logos/github.png
+    description: XXXXXXXXXXXXXXx
 
 devTools:
   - name: Github
