@@ -144,8 +144,12 @@ bitTools:
     description: 北京理工大学网络电视
   - name: 邮箱
     url: http://mail.bit.edu.cn/
-    img: /images/logos/bit-mail.jpg
+    img: /images/logos/bit-mail.png
     description: 北京理工大学邮箱系统
+  - name: 极速之星
+    url: https://bitpt.cn/
+    img: /images/logos/bit-pt.png
+    description: 北京理工大学极速之星
 
 hotTools:
   - name: Github
