@@ -27,25 +27,25 @@ function search() {
             position: "-40px -40px",
             url: "https://www.aminer.cn/s?q="
         }, {
-            name: "搜狗",
+            name: "SCI-HUB",
             img: "url('/images/search_icon.png') -80px -50px",
             position: "0px -80px",
-            url: "https://www.sogou.com/web?query="
+            url: "https://sci-hub.tw?query="
         }, {
-            name: "淘宝",
+            name: "Mag[i]",
             img: "url('/images/search_icon.png') -105px -50px",
             position: "-40px -80px",
-            url: "https://s.taobao.com/search?q="
+            url: "https://magi.com/search?q="
         }, {
-            name: "京东",
+            name: "WolframAlpha",
             img: "url('/images/search_icon.png') -80px -75px",
             position: "0px -120px",
-            url: "http://search.jd.com/Search?keyword="
+            url: "https://www.wolframalpha.com/input/?i="
         }, {
-            name: "天猫",
+            name: "OALib",
             img: "url('/images/search_icon.png') -105px -75px",
             position: "-40px -120px",
-            url: "https://list.tmall.com/search_product.htm?q="
+            url: "https://www.oalib.com/search?kw="
         }, {
             name: "1688",
             img: "url('/images/search_icon.png') -80px -100px",
