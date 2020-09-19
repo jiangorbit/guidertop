@@ -42,7 +42,7 @@ menu:
         icon: fa fa-cubes
         config: literDatas
       - name: 期刊会议
-        icon: fa fa-diamond
+        icon: fa fa-fire
         config: journalCons
       - name: 学术出版
         icon: fas fa-book
@@ -60,7 +60,7 @@ menu:
         icon: fa fa-inbox
         config: servPlatforms
   - name: 科技媒体
-    icon: far fa-star
+    icon: far fa-flag
     config: techMedias
   - name: 常用工具
     icon: fas fa-tools
