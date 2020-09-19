@@ -7,25 +7,25 @@ function search() {
         "thisSearchIcon": "url('/images/search_icon.png')",
         "hotStatus": true,
         "data": [{
-            name: "百度",
+            name: "百度学术",
             img: "url('/images/search_icon.png') -80px 0px",
             position: "0px 0px",
-            url: "https://www.baidu.com/s?wd="
+            url: "https://xueshu.baidu.com/s?wd="
         }, {
-            name: "谷歌",
+            name: "谷歌学术",
             img: "url('/images/search_icon.png')  -105px 0px",
             position: "-40px 0px",
-            url: "https://www.google.com/search?q="
+            url: "https://scholar.google.com/search?q="
         }, {
-            name: "必应",
+            name: "必应学术",
             img: "url('/images/search_icon.png')  -80px -25px",
             position: "0px -40px",
-            url: "https://cn.bing.com/search?q="
+            url: "https://cn.bing.com/academic/search?q="
         }, {
-            name: "好搜",
+            name: "AMiner",
             img: "url('/images/search_icon.png') -105px -25px",
             position: "-40px -40px",
-            url: "https://www.so.com/s?q="
+            url: "https://www.aminer.cn/s?q="
         }, {
             name: "搜狗",
             img: "url('/images/search_icon.png') -80px -50px",
