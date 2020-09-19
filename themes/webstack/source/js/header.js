@@ -50,7 +50,7 @@ function search() {
             name: "arXiv",
             img: "url('/images/search_icon.png') -80px -100px",
             position: "0px -160px",
-            url: "https://arxiv.org/search/?query=
+            url: "https://arxiv.org/search/?query="
         }, {
             name: "GitHub",
             img: "url('/images/search_icon.png') -80px -175px",
