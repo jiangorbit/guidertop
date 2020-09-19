@@ -36,25 +36,25 @@ menu:
         icon: fa fa-dropbox
         config: driveWorks
   - name: 学术空间
-    icon: far fa-star
+    icon: far fa-lightbulb
     submenu:
       - name: 文献数据
-        icon: fas fa-tools
+        icon: fas fa-lightbulb
         config: literDatas
       - name: 期刊会议
-        icon: fas fa-tools
+        icon: fa fa-lightbulb
         config: journalCons
       - name: 学术出版
         icon: fas fa-tools
         config: sciPublishers
   - name: 科研资源
-    icon: far fa-star
+    icon: far fa-thumbs-up
     submenu:
       - name: 科研软件
-        icon: fas fa-tools
+        icon: fa fa-thumbs-up
         config: sciSoftwares
       - name: 数据中心
-        icon: fas fa-tools
+        icon: fas fa-thumbs-up
         config: dataCenters
       - name: 服务平台
         icon: fas fa-tools
