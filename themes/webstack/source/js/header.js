@@ -23,10 +23,8 @@ function search() {
             url: "https://cn.bing.com/academic/search?q="
         }, {
             name: "AMiner",
-            //img: "url('/images/search_icon.png') -105px -25px",
-            //position: "-40px -40px",
-            img: "url('/images/logos/search_aminer.png')",
-            position: "0px 0px",
+            img: "url('/images/search_icon.png') -105px -25px",
+            position: "-40px -40px",
             url: "https://www.aminer.cn/s?q="
         }, {
             name: "SCI-HUB",
