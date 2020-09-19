@@ -18,7 +18,7 @@ menu:
     icon: far fa-star
     config: hotSites
   - name: BITREN
-    icon: far fa-star
+    icon: far fa-doc
     config: bitTools
   - name: 办公学习
     icon: far fa-star
@@ -37,13 +37,37 @@ menu:
         config: driveWorks
   - name: 学术空间
     icon: far fa-star
-    config: scholarSpace
+    submenu:
+      - name: 文献数据
+        icon: fas fa-tools
+        config: literDatas
+      - name: 期刊会议
+        icon: fas fa-tools
+        config: journalCons
+      - name: 学术出版
+        icon: fas fa-tools
+        config: sciPublishers
   - name: 科研资源
     icon: far fa-star
-    config: sciResources
+    submenu:
+      - name: 科研软件
+        icon: fas fa-tools
+        config: sciSoftwares
+      - name: 数据中心
+        icon: fas fa-tools
+        config: dataCenters
+      - name: 服务平台
+        icon: fas fa-tools
+        config: servPlatforms
+  - name: 科技媒体
+    icon: far fa-star
+    config: techMedias
   - name: 常用工具
     icon: fas fa-tools
     submenu:
+      - name: 在线IDE
+        icon: fas fa-tools
+        config: onlineIDEs
       - name: 开发工具
         icon: fas fa-tools
         config: devTools
@@ -149,13 +173,43 @@ driveWorks:
     img: /images/logos/baiduwangpan.png
     description: 百度网盘
 
-scholarSpace:
+literDatas:
   - name: Demo4
     url: Demo
     img: /images/logos/github.png
     description: XXXXXXXXXXXXXXx
 
-sciResources:
+journalCons:
+  - name: Demo4
+    url: Demo
+    img: /images/logos/github.png
+    description: XXXXXXXXXXXXXXx
+
+sciPublishers:
+  - name: Demo4
+    url: Demo
+    img: /images/logos/github.png
+    description: XXXXXXXXXXXXXXx
+
+sciSoftwares:
+  - name: Demo4
+    url: Demo
+    img: /images/logos/github.png
+    description: XXXXXXXXXXXXXXx
+
+dataCenters:
+  - name: Demo4
+    url: Demo
+    img: /images/logos/github.png
+    description: XXXXXXXXXXXXXXx
+
+servPlatforms:
+  - name: Demo4
+    url: Demo
+    img: /images/logos/github.png
+    description: XXXXXXXXXXXXXXx
+
+techMedias:
   - name: Demo4
     url: Demo
     img: /images/logos/github.png
