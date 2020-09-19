@@ -47,20 +47,20 @@ function search() {
             position: "-40px -120px",
             url: "https://www.oalib.com/search?kw="
         }, {
-            name: "1688",
+            name: "arXiv",
             img: "url('/images/search_icon.png') -80px -100px",
             position: "0px -160px",
-            url: "https://s.1688.com/selloffer/offer_search.htm?keywords="
+            url: "https://arxiv.org/search/?query=
+        }, {
+            name: "GitHub",
+            img: "url('/images/search_icon.png') -80px -175px",
+            position: "0px -280px",
+            url: "https://github.com/search?utf8=✓&q="
         }, {
             name: "知乎",
             img: "url('/images/search_icon.png') -105px -100px",
             position: "-40px -160px",
             url: "https://www.zhihu.com/search?type=content&q="
-        }, {
-            name: "微博",
-            img: "url('/images/search_icon.png') -80px -125px",
-            position: "0px -200px",
-            url: "https://s.weibo.com/weibo/"
         }, {
             name: "B站",
             img: "url('/images/search_icon.png') -105px -125px",
@@ -77,10 +77,10 @@ function search() {
             position: "-40px -240px",
             url: "https://so.youku.com/search_video/q_"
         }, {
-            name: "GitHub",
-            img: "url('/images/search_icon.png') -80px -175px",
-            position: "0px -280px",
-            url: "https://github.com/search?utf8=✓&q="
+            name: "微博",
+            img: "url('/images/search_icon.png') -80px -125px",
+            position: "0px -200px",
+            url: "https://s.weibo.com/weibo/"
         }]
     };
     var localSearchData = localStorage.getItem("searchData");
