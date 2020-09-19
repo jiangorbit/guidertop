@@ -4,7 +4,7 @@ function search() {
     var hotList = 0;
     var searchData = {
         "thisSearch": "https://xueshu.baidu.com/s?wd=",
-        "thisSearchIcon": "url('/images/search_icon.png')",
+        "thisSearchIcon": "url('/images/search_icon_aminer.png')",
         "hotStatus": true,
         "data": [{
             name: "百度学术",
