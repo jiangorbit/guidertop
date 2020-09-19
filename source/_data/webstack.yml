@@ -24,7 +24,7 @@ menu:
     icon: fa fa-desktop
     submenu:
       - name: 云上办公
-        icon: fa fa-skyatlas
+        icon: fa fa-cloud
         config: cloudWorks
       - name: 文档笔记
         icon: fa fa-edit
@@ -33,16 +33,16 @@ menu:
         icon: far fa-envelope
         config: mailWorks
       - name: 网盘存储
-        icon: fa fa-cloud
+        icon: fa fa-folder
         config: driveWorks
   - name: 学术空间
     icon: far fa-lightbulb
     submenu:
       - name: 文献数据
-        icon: fas fa-lightbulb
+        icon: fa fa-cubes
         config: literDatas
       - name: 期刊会议
-        icon: fa fa-lightbulb
+        icon: fa fa-diamond
         config: journalCons
       - name: 学术出版
         icon: fas fa-book
@@ -51,7 +51,7 @@ menu:
     icon: far fa-thumbs-up
     submenu:
       - name: 科研软件
-        icon: fa fa-thumbs-up
+        icon: fa fa-clone
         config: sciSoftwares
       - name: 数据中心
         icon: fas fa-database
