@@ -3,7 +3,7 @@ function search() {
     var listIndex = -1;
     var hotList = 0;
     var searchData = {
-        "thisSearch": "https://www.baidu.com/s?wd=",
+        "thisSearch": "https://xueshu.baidu.com/s?wd=",
         "thisSearchIcon": "url('/images/search_icon.png')",
         "hotStatus": true,
         "data": [{
@@ -26,6 +26,7 @@ function search() {
             //img: "url('/images/search_icon.png') -105px -25px",
             //position: "-40px -40px",
             img: "url('/images/logos/search_aminer.png')",
+            position: "0px 0px",
             url: "https://www.aminer.cn/s?q="
         }, {
             name: "SCI-HUB",
