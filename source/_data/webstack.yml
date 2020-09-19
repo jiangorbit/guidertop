@@ -76,15 +76,15 @@ hotSites:
 cloudWorks:
   - name: Microsoft Office
     url: http://www.office.com/
-    img: /images/logos/office.png
+    img: /images/logos/microsoft-office.png
     description: 微软云办公
   - name: WPS Office
     url: https://www.wps.cn/
-    img: /images/logos/wps.png
+    img: /images/logos/wps-office.png
     description: WPS Office
   - name: 腾讯云文档
     url: http://docs.qq.com/index.html/
-    img: /images/logos/qqdocs.png
+    img: /images/logos/docs-qq.png
     description: 腾讯云文档
   - name: Teambition
     url: https://www.teambition.com/
