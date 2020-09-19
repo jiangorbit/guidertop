@@ -288,7 +288,8 @@ bitTools:
 myBlog:
   - name: HJI.ZONE
     url: https://hji.zone/
-    img: /images/logos/myBlog.png
+    #img: /images/logos/myBlog.png
+    img: /images/logos/hji.jpg
     description: Huan Jiang's Information Zone.
 
 about:
@@ -302,10 +303,11 @@ aboutPage:
     html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>的demo站。</p></blockquote>'
   webmaster:
     head: 关于站长
-    name: Huan Jiang
+    name: HJI.ZONE
     url: https://hji.zone/
-    img: /images/logos/myblog.png
-    description: 研究僧一枚
+    #img: /images/logos/myblog.png
+    img: /images/logos/hji.jpg
+    description: Huan Jiang's Information Zone.
     html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
 
 since: 2020
