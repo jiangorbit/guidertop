@@ -4,81 +4,81 @@ function search() {
     var hotList = 0;
     var searchData = {
         "thisSearch": "https://xueshu.baidu.com/s?wd=",
-        "thisSearchIcon": "url('/images/search_icon_aminer_aminer.png')",
+        "thisSearchIcon": "url('/images/search_icon.png')",
         "hotStatus": true,
         "data": [{
             name: "百度学术",
-            img: "url('/images/search_icon_aminer.png') -80px 0px",
+            img: "url('/images/search_icon.png') -80px 0px",
             position: "0px 0px",
             url: "https://xueshu.baidu.com/s?wd="
         }, {
             name: "谷歌学术",
-            img: "url('/images/search_icon_aminer.png')  -105px 0px",
+            img: "url('/images/search_icon.png')  -105px 0px",
             position: "-40px 0px",
             url: "https://scholar.google.com/search?q="
         }, {
             name: "必应学术",
-            img: "url('/images/search_icon_aminer.png')  -80px -25px",
+            img: "url('/images/search_icon.png')  -80px -25px",
             position: "0px -40px",
             url: "https://cn.bing.com/academic/search?q="
         }, {
             name: "AMiner",
-            img: "url('/images/search_icon_aminer_aminer.png') -105px -25px",
+            img: "url('/images/search_icon.png') -105px -25px",
             position: "-40px -40px",
             url: "https://www.aminer.cn/s?q="
         }, {
             name: "SCI-HUB",
-            img: "url('/images/search_icon_aminer.png') -80px -50px",
+            img: "url('/images/search_icon.png') -80px -50px",
             position: "0px -80px",
             url: "https://sci-hub.tw?query="
         }, {
             name: "Mag[i]",
-            img: "url('/images/search_icon_aminer.png') -105px -50px",
+            img: "url('/images/search_icon.png') -105px -50px",
             position: "-40px -80px",
             url: "https://magi.com/search?q="
         }, {
             name: "WolframAlpha",
-            img: "url('/images/search_icon_aminer.png') -80px -75px",
+            img: "url('/images/search_icon.png') -80px -75px",
             position: "0px -120px",
             url: "https://www.wolframalpha.com/input/?i="
         }, {
             name: "OALib",
-            img: "url('/images/search_icon_aminer.png') -105px -75px",
+            img: "url('/images/search_icon.png') -105px -75px",
             position: "-40px -120px",
             url: "https://www.oalib.com/search?kw="
         }, {
             name: "arXiv",
-            img: "url('/images/search_icon_aminer.png') -80px -100px",
+            img: "url('/images/search_icon.png') -80px -100px",
             position: "0px -160px",
             url: "https://arxiv.org/search/?query="
         }, {
             name: "GitHub",
-            img: "url('/images/search_icon_aminer.png') -80px -175px",
+            img: "url('/images/search_icon.png') -80px -175px",
             position: "0px -280px",
             url: "https://github.com/search?utf8=✓&q="
         }, {
             name: "知乎",
-            img: "url('/images/search_icon_aminer.png') -105px -100px",
+            img: "url('/images/search_icon.png') -105px -100px",
             position: "-40px -160px",
             url: "https://www.zhihu.com/search?type=content&q="
         }, {
             name: "B站",
-            img: "url('/images/search_icon_aminer.png') -105px -125px",
+            img: "url('/images/search_icon.png') -105px -125px",
             position: "-40px -200px",
             url: "http://search.bilibili.com/all?keyword="
         }, {
             name: "豆瓣",
-            img: "url('/images/search_icon_aminer.png') -80px -150px",
+            img: "url('/images/search_icon.png') -80px -150px",
             position: "0px -240px",
             url: "https://www.douban.com/search?source=suggest&q="
         }, {
             name: "优酷",
-            img: "url('/images/search_icon_aminer.png') -105px -150px",
+            img: "url('/images/search_icon.png') -105px -150px",
             position: "-40px -240px",
             url: "https://so.youku.com/search_video/q_"
         }, {
             name: "微博",
-            img: "url('/images/search_icon_aminer.png') -80px -125px",
+            img: "url('/images/search_icon.png') -80px -125px",
             position: "0px -200px",
             url: "https://s.weibo.com/weibo/"
         }]
