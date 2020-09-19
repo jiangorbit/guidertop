@@ -18,22 +18,22 @@ menu:
     icon: far fa-star
     config: hotSites
   - name: BITREN
-    icon: far fa-home
+    icon: fa fa-home
     config: bitTools
   - name: 办公学习
-    icon: far fa-desktop
+    icon: fa fa-desktop
     submenu:
       - name: 云上办公
-        icon: far fa-skyatlas
+        icon: fa fa-skyatlas
         config: cloudWorks
       - name: 文档笔记
-        icon: far fa-pencil
+        icon: fa fa-pencil
         config: writeWorks
       - name: 邮件系统
         icon: far fa-envelope
         config: mailWorks
       - name: 网盘存储
-        icon: far fa-dropbox
+        icon: fa fa-dropbox
         config: driveWorks
   - name: 学术空间
     icon: far fa-star
