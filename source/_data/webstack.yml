@@ -146,7 +146,7 @@ driveWorks:
     description: 坚果云盘
   - name: 百度网盘
     url: https://pan.baidu.com/
-    img: /images/logos/drive-baidu.png
+    img: /images/logos/baiduwangpan.png
     description: 百度网盘
 
 scholarSpace:
