@@ -27,13 +27,13 @@ menu:
         icon: fa fa-skyatlas
         config: cloudWorks
       - name: 文档笔记
-        icon: fa fa-pencil
+        icon: fa fa-edit
         config: writeWorks
       - name: 邮件系统
         icon: far fa-envelope
         config: mailWorks
       - name: 网盘存储
-        icon: fa fa-dropbox
+        icon: fa fa-cloud
         config: driveWorks
   - name: 学术空间
     icon: far fa-lightbulb
@@ -45,7 +45,7 @@ menu:
         icon: fa fa-lightbulb
         config: journalCons
       - name: 学术出版
-        icon: fas fa-tools
+        icon: fas fa-book
         config: sciPublishers
   - name: 科研资源
     icon: far fa-thumbs-up
@@ -54,10 +54,10 @@ menu:
         icon: fa fa-thumbs-up
         config: sciSoftwares
       - name: 数据中心
-        icon: fas fa-thumbs-up
+        icon: fas fa-database
         config: dataCenters
       - name: 服务平台
-        icon: fas fa-tools
+        icon: fa fa-inbox
         config: servPlatforms
   - name: 科技媒体
     icon: far fa-star
@@ -66,10 +66,10 @@ menu:
     icon: fas fa-tools
     submenu:
       - name: 在线IDE
-        icon: fas fa-tools
+        icon: fa fa-code
         config: onlineIDEs
       - name: 开发工具
-        icon: fas fa-tools
+        icon: fa fa-cogs
         config: devTools
       - name: 我的博客
         icon: fas fa-blog
