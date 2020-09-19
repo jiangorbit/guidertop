@@ -24,16 +24,16 @@ menu:
     icon: far fa-desktop
     submenu:
       - name: 云上办公
-        icon: fas fa-skyatlas
+        icon: far fa-skyatlas
         config: cloudWorks
       - name: 文档笔记
-        icon: fas fa-pencil
+        icon: far fa-pencil
         config: writeWorks
       - name: 邮件系统
-        icon: fas fa-envelope
+        icon: far fa-envelope
         config: mailWorks
       - name: 网盘存储
-        icon: fas fa-dropbox
+        icon: far fa-dropbox
         config: driveWorks
   - name: 学术空间
     icon: far fa-star
