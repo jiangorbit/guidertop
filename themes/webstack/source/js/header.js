@@ -42,15 +42,15 @@ function search() {
             position: "0px -120px",
             url: "https://www.wolframalpha.com/input/?i="
         }, {
-            name: "OALib",
+            name: "arXiv",
             img: "url('/images/search_icon.png') -105px -75px",
             position: "-40px -120px",
-            url: "https://www.oalib.com/search?kw="
+            url: "https://arxiv.org/search/?query="
         }, {
-            name: "arXiv",
+            name: "OALib",
             img: "url('/images/search_icon.png') -80px -100px",
             position: "0px -160px",
-            url: "https://arxiv.org/search/?query="
+            url: "https://www.oalib.com/search?kw="
         }, {
             name: "GitHub",
             img: "url('/images/search_icon.png') -80px -175px",
