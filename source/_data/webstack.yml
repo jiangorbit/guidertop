@@ -259,10 +259,22 @@ devTools:
     description: 面向开源及私有软件项目的托管平台。
 
 figTools:
+  - name: 在线PS
+    url: https://uupoop.com/
+    img: /images/logos/uupoop.png/
+    description: 在线PS工具
   - name: 在线抠图
     url: https://deeplor.com/
     img: /images/logos/deeplor.png/
     description: 在线抠图
+  - name: PDF转换器
+    url: https://pdfdo.com/
+    img: /images/logos/pdfdo.png/
+    description: PDF转换器
+  - name: 格式转换器
+    url: https://cloudconvert.com/
+    img: /images/logos/cloudconvert.png/
+    description: 格式转换器
 
 bitTools:
   - name: BIT
