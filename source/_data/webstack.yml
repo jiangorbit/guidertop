@@ -50,8 +50,8 @@ menu:
   - name: 科研资源
     icon: far fa-thumbs-up
     submenu:
-      - name: 开源文献
-        icon: fa fa-bank
+      - name: 在线文库
+        icon: fa fa-copy
         config: onlineLibraries
       - name: 科研软件
         icon: fa fa-clone
