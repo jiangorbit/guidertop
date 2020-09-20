@@ -72,7 +72,7 @@ menu:
         icon: fa fa-cogs
         config: devTools
       - name: 图文工具
-        icon: fa fa-picture
+        icon: fa fa-picture-o
         config: figTools
       - name: 我的博客
         icon: fas fa-blog
@@ -241,7 +241,7 @@ onlineIDEs:
     description: Wandbox
   - name: Compiler Explorer
     url: https://www.godbolt.org/
-    img: /images/logos/github.png
+    img: /images/logos/godbolt.png
     description: Compiler Explorer.
 
 devTools:
