@@ -78,7 +78,7 @@ menu:
         icon: fa fa-crop
         config: designTools
       - name: 格式工厂
-        icon: fa fa-refresh
+        icon: fa fa-retweet
         config: convertTools
       - name: 我的博客
         icon: fas fa-blog
