@@ -77,6 +77,9 @@ menu:
       - name: 设计素材
         icon: fa fa-crop
         config: designTools
+      - name: 格式工厂
+        icon: fa fa-refresh
+        config: convertTools
       - name: 我的博客
         icon: fas fa-blog
         config: myBlog
@@ -278,16 +281,18 @@ figTools:
     url: https://pdfdo.com/
     img: /images/logos/pdfdo.png/
     description: PDF转换器
-  - name: 格式转换器
-    url: https://cloudconvert.com/
-    img: /images/logos/cloudconvert.png/
-    description: 格式转换器
 
 designTools:
   - name: Unsplash
     url: https://unsplash.com/
     img: /images/logos/unsplash.png/
     description: Photos for everyone
+
+convertTools:
+  - name: 格式转换器
+    url: https://cloudconvert.com/
+    img: /images/logos/cloudconvert.png/
+    description: 格式转换器
 
 bitTools:
   - name: BIT
