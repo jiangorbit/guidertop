@@ -50,6 +50,9 @@ menu:
   - name: 科研资源
     icon: far fa-thumbs-up
     submenu:
+      - name: 开源文献
+        icon: fa fa-bank
+        config: onlineLibraries
       - name: 科研软件
         icon: fa fa-clone
         config: sciSoftwares
@@ -183,10 +186,10 @@ driveWorks:
     description: 百度网盘
 
 literDatas:
-  - name: Library Genesis
-    url: https://libgen.rs
-    img: /images/logos/libgen.png
-    description: Library Genesis.
+  - name: IEEE
+    url: https://ieeexplore.ieee.org
+    img: /images/logos/ieee.png
+    description: IEEE
 
 journalCons:
   - name: Demo4
@@ -199,6 +202,12 @@ sciPublishers:
     url: Demo
     img: /images/logos/github.png
     description: XXXXXXXXXXXXXXx
+
+onlineLibraries:
+  - name: Library Genesis
+    url: https://libgen.rs
+    img: /images/logos/libgen.png
+    description: Library Genesis.
 
 sciSoftwares:
   - name: MATLAB
@@ -213,10 +222,10 @@ dataCenters:
     description: Google学术镜像导航
 
 servPlatforms:
-  - name: Demo4
-    url: Demo
-    img: /images/logos/github.png
-    description: XXXXXXXXXXXXXXx
+  - name: 中科院科技查新
+    url: https://chaxin.las.ac.cn/novelty/embed/home.htm/
+    img: /images/logos/chaxin-las.png
+    description: 中国科学院文献情报中心
 
 techMedias:
   - name: 机器之心
