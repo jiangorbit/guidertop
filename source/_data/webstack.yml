@@ -74,6 +74,9 @@ menu:
       - name: 图文工具
         icon: fa fa-image
         config: figTools
+      - name: 设计素材
+        icon: fa fa-crop
+        config: designTools
       - name: 我的博客
         icon: fas fa-blog
         config: myBlog
@@ -267,6 +270,10 @@ figTools:
     url: https://deeplor.com/
     img: /images/logos/deeplor.png/
     description: 在线抠图
+  - name: removegb
+    url: https://www.remove.bg/
+    img: /images/logos/removebg.png/
+    description: Remove Background, 100% Automatically and Free.
   - name: PDF转换器
     url: https://pdfdo.com/
     img: /images/logos/pdfdo.png/
@@ -275,6 +282,12 @@ figTools:
     url: https://cloudconvert.com/
     img: /images/logos/cloudconvert.png/
     description: 格式转换器
+
+designTools:
+  - name: Unsplash
+    url: https://unsplash.com/
+    img: /images/logos/unsplash.png/
+    description: Photos for everyone
 
 bitTools:
   - name: BIT
