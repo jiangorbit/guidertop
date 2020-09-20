@@ -199,6 +199,22 @@ literDatas:
     url: https://ieeexplore.ieee.org
     img: /images/logos/ieee.png
     description: IEEE
+  - name: AIAA
+    url: https://arc.aiaa.org/search/advanced
+    img: /images/logos/aiaa-arc.png
+    description: AIAA Aerospace Research Central.
+  - name: ASME
+    url: https://asmedigitalcollection.asme.org/
+    img: /images/logos/asme.png
+    description: The American Society of Mechanical Engineers.
+  - name: CNKI
+    url: https://www.cnki.net/
+    img: /images/logos/cnki.png
+    description: 中国知网
+  - name: 万方数据
+    url: https://www.wanfangdata.com.cn/index.html/
+    img: /images/logos/wanfangdata.png
+    description: 万方数据知识服务平台
 
 journalCons:
   - name: Demo4
