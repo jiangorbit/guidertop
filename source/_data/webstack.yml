@@ -183,10 +183,10 @@ driveWorks:
     description: 百度网盘
 
 literDatas:
-  - name: Demo4
-    url: Demo
-    img: /images/logos/github.png
-    description: XXXXXXXXXXXXXXx
+  - name: Library Genesis
+    url: https://libgen.rs
+    img: /images/logos/libgen.png
+    description: Library Genesis.
 
 journalCons:
   - name: Demo4
@@ -207,10 +207,10 @@ sciSoftwares:
     description: MATLAB
 
 dataCenters:
-  - name: Demo4
-    url: Demo
-    img: /images/logos/github.png
-    description: XXXXXXXXXXXXXXx
+  - name: 谷歌学术镜像
+    url: https://ac.scmor.com/
+    img: /images/logos/scmor.png
+    description: Google学术镜像导航
 
 servPlatforms:
   - name: Demo4
