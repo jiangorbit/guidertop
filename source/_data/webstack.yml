@@ -192,10 +192,10 @@ sciPublishers:
     description: XXXXXXXXXXXXXXx
 
 sciSoftwares:
-  - name: Demo4
-    url: Demo
+  - name: MATLAB
+    url: https://www.mathworks.com/
     img: /images/logos/github.png
-    description: XXXXXXXXXXXXXXx
+    description: MATLAB
 
 dataCenters:
   - name: Demo4
@@ -210,16 +210,36 @@ servPlatforms:
     description: XXXXXXXXXXXXXXx
 
 techMedias:
-  - name: Demo4
-    url: Demo
+  - name: 机器之心
+    url: https://www.jiqizhixin.com/
     img: /images/logos/github.png
-    description: XXXXXXXXXXXXXXx
+    description: 机器之心
+  - name: TechWeb
+    url: https://www.jiqizhixin.com/
+    img: /images/logos/github.png
+    description: 领先的互联网消费互动媒体
+  - name: 36氪
+    url: https://www.36kr.com/
+    img: /images/logos/github.png
+    description: 36氪,让一部分人先看到未来
+  - name: 量子位
+    url: https://www.qbitai.com/
+    img: /images/logos/github.png
+    description: 追踪人工智能新趋势,报道科技行业新突破
 
 onlineIDEs:
-  - name: Demo4
-    url: Demo
+  - name: OnlineGDB
+    url: https://www.onlinegdb.com/
     img: /images/logos/github.png
-    description: XXXXXXXXXXXXXXx
+    description: Online compiler and debugger for C/C++.
+  - name: Wandbox
+    url: https://wandbox.org/
+    img: /images/logos/github.png
+    description: Wandbox
+  - name: Compiler Explorer
+    url: https://www.godbolt.org/
+    img: /images/logos/github.png
+    description: Compiler Explorer.
 
 devTools:
   - name: Github
