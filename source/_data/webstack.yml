@@ -71,6 +71,9 @@ menu:
       - name: 开发工具
         icon: fa fa-cogs
         config: devTools
+      - name: 图文工具
+        icon: fa fa-picture
+        config: figTools
       - name: 我的博客
         icon: fas fa-blog
         config: myBlog
@@ -254,6 +257,12 @@ devTools:
     url: https://github.com/
     img: /images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
+
+figTools:
+  - name: 在线抠图
+    url: https://deeplor.com/
+    img: /images/logos/deeplor.png/
+    description: 在线抠图
 
 bitTools:
   - name: BIT
