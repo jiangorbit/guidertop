@@ -30,7 +30,7 @@ menu:
         icon: fa fa-edit
         config: writeWorks
       - name: 效率管理
-        icon: fa fa-chack
+        icon: fa fa-check
         config: manageWorks
       - name: 邮件系统
         icon: far fa-envelope
@@ -147,6 +147,7 @@ writeWorks:
     url: https://note.youdao.com/
     img: /images/logos/note-youdao.png
     description: 有道云笔记
+
 manageWorks:
   - name: Mendeley
     url: https://mendeley.com/
