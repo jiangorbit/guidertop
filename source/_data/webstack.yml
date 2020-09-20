@@ -29,6 +29,9 @@ menu:
       - name: 文档笔记
         icon: fa fa-edit
         config: writeWorks
+      - name: 效率管理
+        icon: fa fa-chack
+        config: manageWorks
       - name: 邮件系统
         icon: far fa-envelope
         config: mailWorks
@@ -144,7 +147,12 @@ writeWorks:
     url: https://note.youdao.com/
     img: /images/logos/note-youdao.png
     description: 有道云笔记
-    
+manageWorks:
+  - name: Mendeley
+    url: https://mendeley.com/
+    img: /images/logos/mendeley.png
+    description: Mendeley高效管理文献
+
 mailWorks:
   - name: Outlook邮箱
     url: https://outlook.com/
