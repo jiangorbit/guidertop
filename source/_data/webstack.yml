@@ -72,7 +72,7 @@ menu:
         icon: fa fa-cogs
         config: devTools
       - name: 图文工具
-        icon: fa fa-picture-o
+        icon: fa fa-image
         config: figTools
       - name: 我的博客
         icon: fas fa-blog
