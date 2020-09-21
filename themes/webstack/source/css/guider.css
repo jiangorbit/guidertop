@@ -3,3 +3,13 @@
     width: 16.5% !important;
   }
 }
+@media (min-width: 992px) {
+  .col-md-3 {
+    width: 16.5% !important;
+  }
+}
+@media (min-width: 767px) {
+  .col-xs-3 {
+    width: 16.5% !important;
+  }
+}
