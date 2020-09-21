@@ -1,15 +1,20 @@
-@media (min-width: 768px) {
+@media (min-width: 1268px) {
   .col-sm-3 {
-    width: 16.5% !important;
+    width: 12.5% !important;
   }
 }
-@media (min-width: 992px) {
-  .col-md-3 {
-    width: 16.5% !important;
+@media (min-width: 1068px) {
+  .col-sm-3 {
+    width: 16.6% !important;
   }
 }
-@media (min-width: 767px) {
-  .col-xs-3 {
-    width: 16.5% !important;
+@media (min-width: 868px) {
+  .col-sm-3 {
+    width: 20.0% !important;
+  }
+}
+@media (min-width: 567px) {
+  .col-sm-3 {
+    width: 25.0% !important;
   }
 }
