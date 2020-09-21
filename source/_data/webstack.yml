@@ -78,9 +78,9 @@ menu:
       - name: 开发工具
         icon: fa fa-cogs
         config: devTools
-      - name: 图文工具
+      - name: 图文处理
         icon: fa fa-image
-        config: figTools
+        config: graTools
       - name: 设计素材
         icon: fa fa-crop
         config: designTools
@@ -248,7 +248,7 @@ sciPublishers:
     url: https://elsevier.com/
     img: /images/logos/elsevier.png
     description: Empowering Knowledge
-  - name: Wiley Online Library
+  - name: Wiley Online Library.
     url: https://onlinelibrary.wiley.com/
     img: /images/logos/wileyonline.png
     description: Wiley Online Library.
@@ -266,16 +266,24 @@ onlineLibraries:
     url: https://dblp.uni-trier.de/
     img: /images/logos/dblp.png
     description: Computer Science Bibliography.
-  - name: MIT Open Courseware
+  - name: MIT Open Courseware.
     url: https://ocw.mit.edu/index.htm/
     img: /images/logos/mit-ocw.png
     description: MIT OpenCourseware.
+  - name: Open Textbook Library
+    url: https://open.umn.edu/opentextbooks/
+    img: /images/logos/opentextbook.png
+    description: Open Textbook Library.
 
 sciSoftwares:
   - name: MATLAB
     url: https://www.mathworks.com/
-    img: /images/logos/github.png
+    img: /images/logos/matlab.png
     description: MATLAB
+  - name: Octave
+    url: https://www.gun.org/software/octave/
+    img: /images/logos/octave.png
+    description: GUN Octave.
 
 dataCenters:
   - name: 谷歌学术镜像
@@ -335,7 +343,11 @@ devTools:
     img: /images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
 
-figTools:
+graTools:
+  - name: LightPDF
+    url: https://lightpdf.com/
+    img: /images/logos/lightpdf.png/
+    description: 在线PDF处理
   - name: 在线PS
     url: https://uupoop.com/
     img: /images/logos/uupoop.png/
