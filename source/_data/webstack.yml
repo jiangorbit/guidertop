@@ -356,6 +356,10 @@ techMedias:
     url: https://www.qbitai.com/
     img: /images/logos/qbitai.png
     description: 追踪人工智能新趋势,报道科技行业新突破
+  - name: Google Ai Blog
+    url: https://ai.googleblog.com/
+    img: /images/logos/googleblog-ai.png
+    description: The latest news from Google AI.
 
 onlineIDEs:
   - name: Codespaces
@@ -430,6 +434,10 @@ schwMessers:
     url: https://cloudconvert.com/
     img: /images/logos/cloudconvert.png/
     description: 格式转换器
+  - name: CODECOGS
+    url: https://codecogs.com/
+    img: /images/logos/codecogs.png/
+    description: Open Source Scientific Library.
 
 bitTools:
   - name: BIT
