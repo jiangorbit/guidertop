@@ -310,6 +310,10 @@ acadeTools:
     description: PaperPass论文检测.
 
 techMedias:
+  - name: Space.com
+    url: https://www.space.com/
+    img: /images/logos/spacecom.png
+    description: Space S&T News.
   - name: 机器之心
     url: https://www.jiqizhixin.com/
     img: /images/logos/jiqizhixin.png
