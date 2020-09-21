@@ -292,6 +292,10 @@ dataCenters:
     description: Google学术镜像导航
 
 acadeTools:
+  - name: zotero
+    url: https://zotero.org/
+    img: /images/logos/zotero.png
+    description: Your personal research assistant.
   - name: 中科院科技查新
     url: https://chaxin.las.ac.cn/novelty/embed/home.htm/
     img: /images/logos/chaxin-las.png
