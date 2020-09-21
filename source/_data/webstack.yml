@@ -328,6 +328,18 @@ techMedias:
     description: 追踪人工智能新趋势,报道科技行业新突破
 
 onlineIDEs:
+  - name: Codespaces
+    url: https://github.com/features/codespaces/
+    img: /images/logos/github.png
+    description: Online compiler and debugger.
+  - name: Codeanywhere
+    url: https://codeanywhere.com/
+    img: /images/logos/codeanywhere.png
+    description: Cloud-Based IDE.
+  - name: CODING.net
+    url: https://coding.net
+    img: /images/logos/codingnet.png
+    description: 一站式软件研发管理平台.
   - name: OnlineGDB
     url: https://www.onlinegdb.com/
     img: /images/logos/onlinegdb.png
