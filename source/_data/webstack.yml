@@ -61,7 +61,7 @@ menu:
         icon: fa fa-copy
         config: onlineLibraries
       - name: 科研软件
-        icon: fa fa-windows
+        icon: fa fa-window-restore
         config: sciSoftwares
       - name: 数据中心
         icon: fas fa-database
@@ -138,10 +138,18 @@ cloudWorks:
     description: 阿里旗下办公套件
 
 cloudEdus:
-  - name: Microsoft Office
-    url: http://www.office.com/
-    img: /images/logos/microsoft-office.png
-    description: 微软云办公
+  - name: Coursera
+    url: http://coursera.org/
+    img: /images/logos/coursera.png
+    description: Coursera
+  - name: 中国大学MOOC
+    url: http://icourse163.org/
+    img: /images/logos/icourse163.png
+    description: Coursera
+  - name: 网易云课堂
+    url: http://study.163.com/
+    img: /images/logos/163-study.png
+    description: 网易云课堂
 
 writeWorks:
   - name: Overleaf
