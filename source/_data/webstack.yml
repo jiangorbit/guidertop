@@ -208,6 +208,10 @@ literDatas:
     url: https://asmedigitalcollection.asme.org/
     img: /images/logos/asme.png
     description: The American Society of Mechanical Engineers.
+  - name: ACM
+    url: https://dl.acm.org/
+    img: /images/logos/acm.png
+    description: ACM Digital Library.
   - name: CNKI
     url: https://www.cnki.net/
     img: /images/logos/cnki.png
@@ -232,6 +236,14 @@ journalCons:
     description: journal of Guidance, Control, and Dynamics.
 
 sciPublishers:
+  - name: Taylor & Francis
+    url: https://tandfonline.com/
+    img: /images/logos/taylor-francis.png
+    description: Taylor & Francis Online
+  - name: Springer
+    url: https://link.springer.com/
+    img: /images/logos/springer.png
+    description: International Publisher Science, Technology, Medicine.
   - name: ELSEVIER
     url: https://elsevier.com/
     img: /images/logos/elsevier.png
@@ -242,6 +254,14 @@ onlineLibraries:
     url: https://libgen.rs
     img: /images/logos/libgen.png
     description: Library Genesis.
+  - name: dblp 计算机科学书目库
+    url: https://dblp.uni-trier.de/
+    img: /images/logos/dblp.png
+    description: Computer Science Bibliography.
+  - name: Wiley Online Library
+    url: https://onlinelibrary.wiley.com/
+    img: /images/logos/wileyonline.png
+    description: Wiley Online Library.
 
 sciSoftwares:
   - name: MATLAB
