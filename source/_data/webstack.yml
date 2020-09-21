@@ -30,7 +30,7 @@ menu:
       - name: 在线教育
         icon: fa fa-university
         config: cloudEdus
-      - name: 文档写作
+      - name: 文档笔记
         icon: fa fa-edit
         config: writeWorks
       - name: 效率管理
