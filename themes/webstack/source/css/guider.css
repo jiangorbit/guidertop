@@ -1,19 +1,19 @@
-@media (min-width: 1268px) {
+@media (max-width: 1268px) {
   .col-sm-3 {
     width: 12.5% !important;
   }
 }
-@media (min-width: 1068px) {
+@media (max-width: 1068px) {
   .col-sm-3 {
     width: 16.6% !important;
   }
 }
-@media (min-width: 868px) {
+@media (max-width: 868px) {
   .col-sm-3 {
     width: 20.0% !important;
   }
 }
-@media (min-width: 1567px) {
+@media (max-width: 667px) {
   .col-sm-3 {
     width: 25.0% !important;
   }
