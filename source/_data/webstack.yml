@@ -248,20 +248,28 @@ sciPublishers:
     url: https://elsevier.com/
     img: /images/logos/elsevier.png
     description: Empowering Knowledge
+  - name: Wiley Online Library
+    url: https://onlinelibrary.wiley.com/
+    img: /images/logos/wileyonline.png
+    description: Wiley Online Library.
 
 onlineLibraries:
   - name: Library Genesis
     url: https://libgen.rs
     img: /images/logos/libgen.png
     description: Library Genesis.
+  - name: Open Library
+    url: https://openlibrary.org/
+    img: /images/logos/openlib.png
+    description: Open Library.
   - name: dblp 计算机科学书目库
     url: https://dblp.uni-trier.de/
     img: /images/logos/dblp.png
     description: Computer Science Bibliography.
-  - name: Wiley Online Library
-    url: https://onlinelibrary.wiley.com/
-    img: /images/logos/wileyonline.png
-    description: Wiley Online Library.
+  - name: MIT Open Courseware
+    url: https://ocw.mit.edu/index.htm/
+    img: /images/logos/mit-ocw.png
+    description: MIT OpenCourseware.
 
 sciSoftwares:
   - name: MATLAB
