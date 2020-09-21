@@ -217,16 +217,24 @@ literDatas:
     description: 万方数据知识服务平台
 
 journalCons:
-  - name: Demo4
-    url: Demo
-    img: /images/logos/github.png
-    description: XXXXXXXXXXXXXXx
+  - name: ACTA
+    url: https://sciencedirect.com/journal/acta-astronautia/
+    img: /images/logos/journals-acta.png
+    description: Acta Astronautia
+  - name: AST
+    url: https://sciencedirect.com/journal/aerospace-science-and-technology/
+    img: /images/logos/journals-ast.png
+    description: Aerospace Science and Technology
+  - name: JGCD
+    url: https://arc.aiaa.org/loi/jgcd/
+    img: /images/logos/journals-jgcd.png
+    description: journal of Guidance, Control, and Dynamics.
 
 sciPublishers:
-  - name: Demo4
-    url: Demo
-    img: /images/logos/github.png
-    description: XXXXXXXXXXXXXXx
+  - name: ELSEVIER
+    url: https://elsevier.com/
+    img: /images/logos/elsevier.png
+    description: Empowering Knowledge
 
 onlineLibraries:
   - name: Library Genesis
