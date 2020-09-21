@@ -27,6 +27,9 @@ menu:
       - name: 云上办公
         icon: fa fa-cloud
         config: cloudWorks
+      - name: 在线教育
+        icon: fa fa-university
+        config: cloudEdus
       - name: 文档笔记
         icon: fa fa-edit
         config: writeWorks
@@ -84,9 +87,9 @@ menu:
       - name: 设计素材
         icon: fa fa-crop
         config: designTools
-      - name: 格式工厂
-        icon: fa fa-retweet
-        config: convertTools
+      - name: 瑞士军刀
+        icon: fa fa-plus-square
+        config: schwMessers
       - name: 我的博客
         icon: fas fa-blog
         config: myBlog
@@ -130,6 +133,12 @@ cloudWorks:
     url: https://www.teambition.com/
     img: /images/logos/teambition.png
     description: 阿里旗下办公套件
+
+cloudEdus:
+  - name: Microsoft Office
+    url: http://www.office.com/
+    img: /images/logos/microsoft-office.png
+    description: 微软云办公
 
 writeWorks:
   - name: Overleaf
@@ -399,7 +408,7 @@ designTools:
     img: /images/logos/unsplash.png/
     description: Photos for everyone
 
-convertTools:
+schwMessers:
   - name: 格式转换器
     url: https://cloudconvert.com/
     img: /images/logos/cloudconvert.png/
