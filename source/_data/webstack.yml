@@ -150,6 +150,10 @@ cloudEdus:
     url: http://study.163.com/
     img: /images/logos/163-study.png
     description: 网易云课堂
+  - name: MIT Open Courseware.
+    url: https://ocw.mit.edu/index.htm/
+    img: /images/logos/mit-ocw.png
+    description: MIT OpenCourseware.
 
 writeWorks:
   - name: Overleaf
@@ -286,10 +290,6 @@ onlineLibraries:
     url: https://dblp.uni-trier.de/
     img: /images/logos/dblp.png
     description: Computer Science Bibliography.
-  - name: MIT Open Courseware.
-    url: https://ocw.mit.edu/index.htm/
-    img: /images/logos/mit-ocw.png
-    description: MIT OpenCourseware.
   - name: Open Textbook Library
     url: https://open.umn.edu/opentextbooks/
     img: /images/logos/opentextbook.png
