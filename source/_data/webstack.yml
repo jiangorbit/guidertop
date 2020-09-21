@@ -114,6 +114,10 @@ hotSites:
     url: https://zhihu.com/
     img: /images/logos/zhihu.png
     description: 知乎
+  - name: Stack Overflow
+    url: https://stackoverflow.com/
+    img: /images/logos/stackoverflow.png
+    description: Where Developers Learn,Share & Build Careers.
   - name: YouTube
     url: https://youtube.com/
     img: /images/logos/youtube.png
