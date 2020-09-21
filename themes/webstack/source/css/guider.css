@@ -3,17 +3,17 @@
     width: 25.0% !important;
   }
 }
-@media (min-width: 1000px) {
+@media (min-width: 1150px) {
   .col-sm-3 {
     width: 20.0% !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1350px) {
   .col-sm-3 {
     width: 16.6% !important;
   }
 }
-@media (min-width: 1450px) {
+@media (min-width: 1600px) {
   .col-sm-3 {
     width: 12.5% !important;
   }
