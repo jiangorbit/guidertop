@@ -61,11 +61,14 @@ menu:
         icon: fa fa-copy
         config: onlineLibraries
       - name: 科研软件
-        icon: fa fa-clone
+        icon: fa fa-linux
         config: sciSoftwares
       - name: 数据中心
         icon: fas fa-database
         config: dataCenters
+      - name: 数字资源
+        icon: fas fa-th
+        config: digiResources
       - name: 学术工具
         icon: fa fa-inbox
         config: acadeTools
@@ -299,6 +302,12 @@ dataCenters:
     url: https://ac.scmor.com/
     img: /images/logos/scmor.png
     description: Google学术镜像导航
+
+digiResources:
+  - name: 清华开源软件镜像站
+    url: https://mirrors.tuna.tsinghua.edu.cn/
+    img: /images/logos/tsinghua-tuna.png
+    description: 清华开源软件镜像站
 
 acadeTools:
   - name: zotero
