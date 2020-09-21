@@ -8,12 +8,12 @@
     width: 20.0% !important;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 1000px) {
   .col-sm-3 {
     width: 16.6% !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1350px) {
   .col-sm-3 {
     width: 12.5% !important;
   }
