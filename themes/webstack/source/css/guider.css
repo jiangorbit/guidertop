@@ -3,7 +3,7 @@
     width: 25.0% !important;
   }
 }
-@media (min-width: 900px) {
+@media (min-width: 1000px) {
   .col-sm-3 {
     width: 20.0% !important;
   }
