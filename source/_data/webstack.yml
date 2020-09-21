@@ -61,14 +61,14 @@ menu:
         icon: fa fa-copy
         config: onlineLibraries
       - name: 科研软件
-        icon: fa fa-linux
+        icon: fa fa-windows
         config: sciSoftwares
       - name: 数据中心
         icon: fas fa-database
         config: dataCenters
-      - name: 数字资源
+      - name: 开源资源
         icon: fas fa-th
-        config: digiResources
+        config: openResources
       - name: 学术工具
         icon: fa fa-inbox
         config: acadeTools
@@ -303,7 +303,7 @@ dataCenters:
     img: /images/logos/scmor.png
     description: Google学术镜像导航
 
-digiResources:
+openResources:
   - name: 清华开源软件镜像站
     url: https://mirrors.tuna.tsinghua.edu.cn/
     img: /images/logos/tsinghua-tuna.png
