@@ -454,6 +454,10 @@ graTools:
     url: https://diagrams.net/
     img: /images/logos/diagramsnet.png/
     description: Flowchart Maker & Online Diagram Software Draw.io
+  - name: Tagxedo
+    url: https://tagxedo.com/
+    img: /images/logos/tagxedo.png/
+    description: Word cloud with styles.
 
 designTools:
   - name: Unsplash
@@ -462,6 +466,10 @@ designTools:
     description: Photos for everyone
 
 schwMessers:
+  - name: Inpaint
+    url: https://theinpaint.com/
+    img: /images/logos/inpaint.png/
+    description: Remove unwanted objects & Fix imperfections.
   - name: 在线抠图
     url: https://deeplor.com/
     img: /images/logos/deeplor.png/
