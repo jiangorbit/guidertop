@@ -93,9 +93,9 @@ menu:
       - name: 瑞士军刀
         icon: fa fa-plus-square
         config: schwMessers
-      - name: 我的博客
-        icon: fas fa-blog
-        config: myBlog
+        #- name: 我的博客
+        #- icon: fas fa-blog
+        #- config: myBlog
 
 hotSites:
   - name: Github
@@ -496,6 +496,10 @@ bitTools:
     url: http://jwc.bit.edu.cn/
     img: /images/logos/bit-jwc.png
     description: 北京理工大学教务处
+  - name: 研究生管理系统
+    url: http://grdms.bit.edu.cn/yjs/login.jsp
+    img: /images/logos/bit-grdms.png
+    description: 研究生管理系统
   - name: 就业信息网
     url: http://job.bit.edu.cn/
     img: /images/logos/bit-job.png
@@ -515,30 +519,42 @@ bitTools:
   - name: IPTV
     url: http://iptv.bit.edu.cn/
     img: /images/logos/bit-iptv.jpg
-    description: 北京理工大学网络电视
+    description: 北理工网络电视
   - name: 邮箱
     url: http://mail.bit.edu.cn/
     img: /images/logos/bit-mail.jpg
-    description: 北京理工大学邮箱系统
+    description: 北理工邮箱系统
   - name: 极速之星
     url: https://bitpt.cn/
     img: /images/logos/bit-pt.png
-    description: 北京理工大学极速之星
+    description: 北理工极速之星
   - name: 宇航学院
     url: http://sae.bit.edu.cn/
     img: /images/logos/bit-sae.png
-    description: 北京理工大学宇航学院
+    description: 北理工宇航学院
   - name: 计算机学院
     url: http://cs.bit.edu.cn/
     img: /images/logos/bit-cs.png
-    description: 北京理工大学计算机学院
+    description: 北理工计算机学院
+  - name: 机电学院
+    url: http://smen.bit.edu.cn/
+    img: /images/logos/bit-smen.png
+    description: 北理工机电学院
+  - name: 机车学院
+    url: http://me.bit.edu.cn/
+    img: /images/logos/bit-me.png
+    description: 北理工机械与车辆学院
+  - name: 自动化学院
+    url: http://ac.bit.edu.cn/
+    img: /images/logos/bit-ac.png
+    description: 北理工自动化学院
 
-myBlog:
-  - name: HJI.ZONE
-    url: https://hji.zone/
-    #img: /images/logos/myBlog.png
-    img: /images/logos/hji.jpg
-    description: Huan Jiang's Information Zone.
+    #myBlog:
+    #  - name: HJI.ZONE
+    #    url: https://hji.zone/
+    #    #img: /images/logos/myBlog.png
+    #    img: /images/logos/hji.jpg
+    #    description: Huan Jiang's Information Zone.
 
 about:
   url: /about/
