@@ -424,18 +424,18 @@ onlineIDEs:
     description: Compiler Explorer.
 
 devTools:
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
+  - name: Vim
+    url: https://www.vim.org/
+    img: /images/logos/vim.png
+    description: 上古神器，Linux世界的编辑器
+  - name: Emacs
+    url: https://gnu.org/software/emacs/
+    img: /images/logos/emacs.png
+    description: 操作系统级集成开发环境和文本编辑器
+  - name: Git
+    url: https://git-scm.com/
+    img: /images/logos/git-scm.png
+    description: 开源分布式版本控制系统
 
 graTools:
   - name: LightPDF
