@@ -464,6 +464,14 @@ designTools:
     url: https://unsplash.com/
     img: /images/logos/unsplash.png/
     description: Photos for everyone
+  - name: AI画伯
+    url: https://ai-art.tokyo/en/
+    img: /images/logos/ai-art.png/
+    description: 油画生成器
+  - name: 不规则圆形生成器
+    url: https://blobmarker.app
+    img: /images/logos/blobmarker.png/
+    description: 不规则圆形生成器
 
 schwMessers:
   - name: Inpaint
