@@ -149,7 +149,7 @@ cloudEdus:
   - name: 中国大学MOOC
     url: http://icourse163.org/
     img: /images/logos/icourse163.png
-    description: Coursera
+    description: 国家精品课程在线学习平台
   - name: 网易云课堂
     url: http://study.163.com/
     img: /images/logos/163-study.png
@@ -475,7 +475,7 @@ bitTools:
   - name: 教务处
     url: http://jwc.bit.edu.cn/
     img: /images/logos/bit-jwc.png
-    description: 北京理工大学图书馆
+    description: 北京理工大学教务处
   - name: 就业信息网
     url: http://job.bit.edu.cn/
     img: /images/logos/bit-job.png
