@@ -25,7 +25,7 @@ function search() {
             name: "AMiner",
             img: "url('/images/search_icon.png') -105px -25px",
             position: "-40px -40px",
-            url: "https://www.aminer.cn/s?q="
+            url: "https://www.aminer.cn/search/person?t=b&q="
         }, {
             name: "SCI-HUB",
             img: "url('/images/search_icon.png') -80px -50px",
