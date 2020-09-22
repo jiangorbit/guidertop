@@ -30,7 +30,7 @@ menu:
       - name: 在线教育
         icon: fa fa-university
         config: cloudEdus
-      - name: 文档笔记
+      - name: 文档写作
         icon: fa fa-edit
         config: writeWorks
       - name: 效率管理
@@ -172,6 +172,10 @@ writeWorks:
     url: https://overleaf.com/
     img: /images/logos/overleaf.png
     description: 在线LaTeX学术写作平台
+  - name: GitBook
+    url: https://gitbook.com/
+    img: /images/logos/gitbook.png
+    description: Document Everthing!
   - name: Roamresearch
     url: https://roamresearch.com/
     img: /images/logos/roamresearch.png
@@ -395,7 +399,7 @@ techMedias:
   - name: NASA Blogs
     url: https://blogs.nasa.gov/
     img: /images/logos/nasa-blog.png
-    description: NASA Blogs..
+    description: NASA Blogs.
 
 onlineIDEs:
   - name: Codespaces
