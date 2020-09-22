@@ -474,6 +474,10 @@ schwMessers:
     url: https://cloudconvert.com/
     img: /images/logos/cloudconvert.png/
     description: 格式转换器
+  - name: 在线视频压缩
+    url: https://apowersoft.cn/compress-video-online/
+    img: /images/logos/apowersoft-cvo.png/
+    description: 免费 高效 无水印
   - name: CODECOGS
     url: https://codecogs.com/
     img: /images/logos/codecogs.png/
