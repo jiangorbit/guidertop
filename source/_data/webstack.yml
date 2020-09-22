@@ -312,6 +312,10 @@ sciSoftwares:
     url: https://www.gun.org/software/octave/
     img: /images/logos/octave.png
     description: GUN Octave.
+- name: Anaconda
+    url: https://www.anaconda.com/
+    img: /images/logos/anaconda.png
+    description: The World's Most Popular Data Science Platform.
 
 dataCenters:
   - name: 谷歌学术镜像
