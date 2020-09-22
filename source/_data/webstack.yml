@@ -388,10 +388,14 @@ techMedias:
     url: https://www.qbitai.com/
     img: /images/logos/qbitai.png
     description: 追踪人工智能新趋势,报道科技行业新突破
-  - name: Google Ai Blog
+  - name: Google AI Blog
     url: https://ai.googleblog.com/
     img: /images/logos/googleblog-ai.png
     description: The latest news from Google AI.
+  - name: NASA Blogs
+    url: https://blogs.nasa.gov/
+    img: /images/logos/nasa-blog.png
+    description: NASA Blogs..
 
 onlineIDEs:
   - name: Codespaces
