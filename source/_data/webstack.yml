@@ -478,6 +478,10 @@ schwMessers:
     url: https://www.remove.bg/
     img: /images/logos/removebg.png/
     description: Remove Background, 100% Automatically and Free.
+  - name: CODECOGS
+    url: https://codecogs.com/
+    img: /images/logos/codecogs.png/
+    description: Open Source Scientific Library.
   - name: PDF转换器
     url: https://pdfdo.com/
     img: /images/logos/pdfdo.png/
@@ -490,10 +494,10 @@ schwMessers:
     url: https://apowersoft.cn/compress-video-online/
     img: /images/logos/apowersoft-cvo.png/
     description: 免费 高效 无水印
-  - name: CODECOGS
-    url: https://codecogs.com/
-    img: /images/logos/codecogs.png/
-    description: Open Source Scientific Library.
+  - name: 办公大师
+    url: https://wofficebox.com/
+    img: /images/logos/wofficebox.png/
+    description: 办公必备小工具集
 
 bitTools:
   - name: BIT
