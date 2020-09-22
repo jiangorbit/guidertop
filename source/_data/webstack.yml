@@ -488,10 +488,6 @@ bitTools:
     url: http://grd.bit.edu.cn/
     img: /images/logos/bit-grd.png
     description: 北京理工大学研究生院
-  - name: 宇航学院
-    url: http://sae.bit.edu.cn/
-    img: /images/logos/bit-sae.png
-    description: 北京理工大学宇航学院
   - name: 图书馆
     url: http://lib.bit.edu.cn/
     img: /images/logos/bit.jpg
@@ -528,6 +524,14 @@ bitTools:
     url: https://bitpt.cn/
     img: /images/logos/bit-pt.png
     description: 北京理工大学极速之星
+  - name: 宇航学院
+    url: http://sae.bit.edu.cn/
+    img: /images/logos/bit-sae.png
+    description: 北京理工大学宇航学院
+  - name: 计算机学院
+    url: http://cs.bit.edu.cn/
+    img: /images/logos/bit-cs.png
+    description: 北京理工大学计算机学院
 
 myBlog:
   - name: HJI.ZONE
