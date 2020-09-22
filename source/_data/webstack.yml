@@ -469,8 +469,8 @@ designTools:
     img: /images/logos/ai-art.png/
     description: 油画生成器
   - name: 不规则圆形生成器
-    url: https://blobmarker.app
-    img: /images/logos/blobmarker.png/
+    url: https://blobmaker.app
+    img: /images/logos/blobmaker.png/
     description: 不规则圆形生成器
 
 schwMessers:
