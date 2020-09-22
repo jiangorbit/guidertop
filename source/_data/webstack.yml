@@ -118,6 +118,10 @@ hotSites:
     url: https://stackoverflow.com/
     img: /images/logos/stackoverflow.png
     description: Where Developers Learn,Share & Build Careers.
+  - name: Wikipedia
+    url: https://wikipedia.com/
+    img: /images/logos/wikipedia.png
+    description: 维基百科
   - name: YouTube
     url: https://youtube.com/
     img: /images/logos/youtube.png
@@ -146,6 +150,10 @@ cloudEdus:
     url: http://coursera.org/
     img: /images/logos/coursera.png
     description: Coursera
+  - name: edX
+    url: http://www.edx.org/
+    img: /images/logos/edx.png
+    description: Free Online Courses by Harvard, MIT, & More
   - name: 中国大学MOOC
     url: http://icourse163.org/
     img: /images/logos/icourse163.png
@@ -318,6 +326,18 @@ sciSoftwares:
     description: The World's Most Popular Data Science Platform.
 
 dataCenters:
+  - name: 中科院数据云
+    url: https://csdb.cn/
+    img: /images/logos/csdb.png
+    description: 中国科学院数据云
+  - name: 国家空间科学中心
+    url: https://nssc.ac.cn/
+    img: /images/logos/nssc.png
+    description: 中国科学院数据云
+  - name: 天文数据中心
+    url: https://nadc.china-vo.org/
+    img: /images/logos/nadc.png
+    description: 国家天文科学数据中心
   - name: 谷歌学术镜像
     url: https://ac.scmor.com/
     img: /images/logos/scmor.png
