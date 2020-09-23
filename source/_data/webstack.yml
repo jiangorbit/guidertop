@@ -103,7 +103,7 @@ hotSites:
     img: /images/logos/github.png
     description: 面向开源及私有软件项目的托管平台。
   - name: ResearchGate
-    url: https://researchgate.com/
+    url: https://researchgate.net/
     img: /images/logos/researchgate.png
     description: 科研博客平台
   - name: bilibili
