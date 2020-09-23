@@ -72,9 +72,9 @@ menu:
       - name: 学术工具
         icon: fa fa-inbox
         config: acadeTools
-  - name: 科技媒体
-    icon: far fa-flag
-    config: techMedias
+      - name: 科技媒体
+        icon: far fa-flag
+        config: techMedias
   - name: 常用工具
     icon: fas fa-tools
     submenu:
