@@ -530,59 +530,59 @@ devTools:
 graTools:
   - name: LightPDF
     url: https://lightpdf.com/
-    img: /images/logos/lightpdf.png/
+    img: /images/logos/lightpdf.png
     description: 在线PDF处理
   - name: 在线PS
     url: https://uupoop.com/
-    img: /images/logos/uupoop.png/
+    img: /images/logos/uupoop.png
     description: 在线PS工具
   - name: Diagrams.net
     url: https://diagrams.net/
-    img: /images/logos/diagramsnet.png/
+    img: /images/logos/diagramsnet.png
     description: Flowchart Maker & Online Diagram Software Draw.io
   - name: Tagxedo
     url: https://tagxedo.com/
-    img: /images/logos/tagxedo.png/
+    img: /images/logos/tagxedo.png
     description: Word cloud with styles.
 
 designTools:
   - name: Unsplash
     url: https://unsplash.com/
-    img: /images/logos/unsplash.png/
+    img: /images/logos/unsplash.png
     description: Photos for everyone
   - name: AI画伯
     url: https://ai-art.tokyo/en/
-    img: /images/logos/ai-art.png/
+    img: /images/logos/ai-art.png
     description: 油画生成器
   - name: 不规则圆形生成器
     url: https://www.blobmaker.app/
-    img: /images/logos/blobmaker.png/
+    img: /images/logos/blobmaker.png
     description: 不规则圆形生成器
 
 schwMessers:
   - name: Inpaint
     url: https://theinpaint.com/
-    img: /images/logos/inpaint.png/
+    img: /images/logos/inpaint.png
     description: Remove unwanted objects
   - name: 在线抠图
     url: https://deeplor.com/
-    img: /images/logos/deeplor.png/
+    img: /images/logos/deeplor.png
     description: 在线抠图
   - name: removegb
     url: https://www.remove.bg/
-    img: /images/logos/removebg.png/
+    img: /images/logos/removebg.png
     description: Remove Background
   - name: CODECOGS
     url: https://codecogs.com/
-    img: /images/logos/codecogs.png/
+    img: /images/logos/codecogs.png
     description: Open Source Scientific Library.
   - name: PDF转换器
     url: https://pdfdo.com/
-    img: /images/logos/pdfdo.png/
+    img: /images/logos/pdfdo.png
     description: PDF转换器
   - name: 格式转换器
     url: https://cloudconvert.com/
-    img: /images/logos/cloudconvert.png/
+    img: /images/logos/cloudconvert.png
     description: 格式转换器
   - name: 在线视频压缩
     url: https://apowersoft.cn/compress-video-online/
@@ -590,7 +590,7 @@ schwMessers:
     description: 免费 高效 无水印
   - name: 办公大师
     url: https://wofficebox.com/
-    img: /images/logos/wofficebox.png/
+    img: /images/logos/wofficebox.png
     description: 办公必备小工具集
 
     #myBlog:
