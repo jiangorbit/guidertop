@@ -396,6 +396,14 @@ techMedias:
     url: https://www.qbitai.com/
     img: /images/logos/qbitai.png
     description: 追踪人工智能新趋势,报道科技行业新突破
+  - name: 新智元
+    url: https://aiera.com.cn
+    img: /images/logos/aiera.png
+    description: 新智元
+  - name: AI研习社
+    url: https://www.yanxishe.com/
+    img: /images/logos/yanxishe.png
+    description: AI研习社
   - name: Google AI Blog
     url: https://ai.googleblog.com/
     img: /images/logos/googleblog-ai.png
