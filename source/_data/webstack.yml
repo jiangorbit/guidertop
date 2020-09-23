@@ -453,13 +453,13 @@ techMedias:
   - name: Space.com
     url: https://www.space.com/
     img: /images/logos/spacecom.png
-    description: Space S&T News.
+    description: Space S&T News
   - name: 机器之心
     url: https://www.jiqizhixin.com/
     img: /images/logos/jiqizhixin.png
     description: 机器之心
   - name: TechWeb
-    url: https://www.jiqizhixin.com/
+    url: https://www.techweb.com.cn/
     img: /images/logos/techweb.png
     description: 领先的互联网消费互动媒体
   - name: 36氪
@@ -471,7 +471,7 @@ techMedias:
     img: /images/logos/qbitai.png
     description: 追踪人工智能新趋势
   - name: 新智元
-    url: https://aiera.com.cn
+    url: https://aiera.com.cn/
     img: /images/logos/aiera.png
     description: 新智元
   - name: AI研习社
@@ -555,7 +555,7 @@ designTools:
     img: /images/logos/ai-art.png/
     description: 油画生成器
   - name: 不规则圆形生成器
-    url: https://www.blobmaker.app
+    url: https://www.blobmaker.app/
     img: /images/logos/blobmaker.png/
     description: 不规则圆形生成器
 
