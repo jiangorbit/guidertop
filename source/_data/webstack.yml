@@ -586,7 +586,7 @@ schwMessers:
     description: 格式转换器
   - name: 在线视频压缩
     url: https://apowersoft.cn/compress-video-online/
-    img: /images/logos/apowersoft-cvo.png/
+    img: /images/logos/apowersoft-cvo.png
     description: 免费 高效 无水印
   - name: 办公大师
     url: https://wofficebox.com/
