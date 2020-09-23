@@ -74,7 +74,7 @@ menu:
         config: acadeTools
       - name: 科技媒体
         icon: far fa-flag
-        config: techMedias
+        config: techMedia
   - name: 常用工具
     icon: fas fa-tools
     submenu:
@@ -449,11 +449,11 @@ acadeTools:
     img: /images/logos/paperpass.png
     description: PaperPass论文检测.
 
-techMedias:
-  - name: Space.com
+techMedia:
+  - name: SPACE
     url: https://www.space.com/
     img: /images/logos/spacecom.png
-    description: Space S&T News
+    description: Space Science and Technology News
   - name: 机器之心
     url: https://www.jiqizhixin.com/
     img: /images/logos/jiqizhixin.png
