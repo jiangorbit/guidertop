@@ -133,7 +133,7 @@ bitTools:
     img: /images/logos/bit.jpg
     description: 北京理工大学
   - name: 综合服务平台
-    url: http://online.bit.edu.cn/eip/nonlogin/toFusionPortalWainPage.htm
+    url: http://online.bit.edu.cn/eip/nonlogin/toFusionPortalWainPage.htm/
     img: /images/logos/bit-cloud.png
     description: 北京理工大学综合信息服务平台|北理云
   - name: 研究院
@@ -497,7 +497,7 @@ onlineIDEs:
     img: /images/logos/codeanywhere.png
     description: Cloud-Based IDE.
   - name: CODING.net
-    url: https://coding.net
+    url: https://coding.net/
     img: /images/logos/codingnet.png
     description: 一站式软件研发管理平台.
   - name: OnlineGDB
@@ -613,7 +613,6 @@ aboutPage:
     head: 关于站长
     name: HJI.ZONE
     url: https://hji.zone/
-    #img: /images/logos/myblog.png
     img: /images/logos/hji.jpg
     description: Huan Jiang's Information Zone.
     html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
