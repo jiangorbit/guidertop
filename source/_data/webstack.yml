@@ -450,6 +450,10 @@ acadeTools:
     description: PaperPass论文检测.
 
 techMedia:
+  - name: 量子位
+    url: https://www.qbitai.com/
+    img: /images/logos/qbitai.png
+    description: 追踪人工智能新趋势
   - name: 新智元
     url: https://aiera.com.cn/
     img: /images/logos/aiera.png
@@ -478,14 +482,10 @@ techMedia:
     url: https://www.techweb.com.cn/
     img: /images/logos/techweb.png
     description: 领先的互联网消费互动媒体
-  - name: 36氪
+  - name: 36Kr
     url: https://www.36kr.com/
     img: /images/logos/36kr.png
-    description: 36氪,让一部分人先看到未来
-  - name: 量子位
-    url: https://www.qbitai.com/
-    img: /images/logos/qbitai.png
-    description: 追踪人工智能新趋势
+    description: 36Kr,让一部分人先看到未来
 
 onlineIDEs:
   - name: Codespaces
