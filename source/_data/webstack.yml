@@ -127,6 +127,80 @@ hotSites:
     img: /images/logos/youtube.png
     description: 全球最大的视频分享平台
 
+bitTools:
+  - name: BIT
+    url: http://www.bit.edu.cn/
+    img: /images/logos/bit.jpg
+    description: 北京理工大学
+  - name: 综合服务平台
+    url: http://online.bit.edu.cn/eip/nonlogin/toFusionPortalWainPage.htm
+    img: /images/logos/bit-cloud.png
+    description: 北京理工大学综合信息服务平台|北理云
+  - name: 研究院
+    url: http://grd.bit.edu.cn/
+    img: /images/logos/bit-grd.png
+    description: 北京理工大学研究生院
+  - name: 图书馆
+    url: http://lib.bit.edu.cn/
+    img: /images/logos/bit.jpg
+    description: 北京理工大学图书馆
+  - name: 教务处
+    url: http://jwc.bit.edu.cn/
+    img: /images/logos/bit-jwc.png
+    description: 北京理工大学教务处
+  - name: 研究生管理系统
+    url: http://grdms.bit.edu.cn/yjs/login.jsp
+    img: /images/logos/bit-grdms.png
+    description: 研究生管理系统
+  - name: 就业信息网
+    url: http://job.bit.edu.cn/
+    img: /images/logos/bit-job.png
+    description: 北京理工大学就业信息网
+  - name: 网络信息服务中心
+    url: http://nsc.bit.edu.cn/
+    img: /images/logos/bit-nsc.png
+    description: 北京理工大学网络信息技术中心
+  - name: 正版软件管理平台
+    url: http://ca.bit.edu.cn/
+    img: /images/logos/bit-ca.png
+    description: 北京理工大学正版软件管理平台
+  - name: FTP联盟
+    url: http://www.bitunion.org/
+    img: /images/logos/bit-ftp.jpg
+    description: 做有争议的联盟，做有争议的人
+  - name: IPTV
+    url: http://iptv.bit.edu.cn/
+    img: /images/logos/bit-iptv.jpg
+    description: 北理工网络电视
+  - name: 邮箱
+    url: http://mail.bit.edu.cn/
+    img: /images/logos/bit-mail.jpg
+    description: 北理工邮箱系统
+  - name: 极速之星
+    url: https://bitpt.cn/
+    img: /images/logos/bit-pt.png
+    description: 北理工极速之星
+  - name: 宇航学院
+    url: http://sae.bit.edu.cn/
+    img: /images/logos/bit-sae.png
+    description: 北理工宇航学院
+  - name: 计算机学院
+    url: http://cs.bit.edu.cn/
+    img: /images/logos/bit-cs.png
+    description: 北理工计算机学院
+  - name: 机电学院
+    url: http://smen.bit.edu.cn/
+    img: /images/logos/bit-smen.png
+    description: 北理工机电学院
+  - name: 机车学院
+    url: http://me.bit.edu.cn/
+    img: /images/logos/bit-me.png
+    description: 北理工机械与车辆学院
+  - name: 自动化学院
+    url: http://ac.bit.edu.cn/
+    img: /images/logos/bit-ac.png
+    description: 北理工自动化学院
+
 cloudWorks:
   - name: Microsoft Office
     url: http://www.office.com/
@@ -395,7 +469,7 @@ techMedias:
   - name: 量子位
     url: https://www.qbitai.com/
     img: /images/logos/qbitai.png
-    description: 追踪人工智能新趋势,报道科技行业新突破
+    description: 追踪人工智能新趋势
   - name: 新智元
     url: https://aiera.com.cn
     img: /images/logos/aiera.png
@@ -489,7 +563,7 @@ schwMessers:
   - name: Inpaint
     url: https://theinpaint.com/
     img: /images/logos/inpaint.png/
-    description: Remove unwanted objects & Fix imperfections.
+    description: Remove unwanted objects
   - name: 在线抠图
     url: https://deeplor.com/
     img: /images/logos/deeplor.png/
@@ -497,7 +571,7 @@ schwMessers:
   - name: removegb
     url: https://www.remove.bg/
     img: /images/logos/removebg.png/
-    description: Remove Background, 100% Automatically and Free.
+    description: Remove Background
   - name: CODECOGS
     url: https://codecogs.com/
     img: /images/logos/codecogs.png/
@@ -518,80 +592,6 @@ schwMessers:
     url: https://wofficebox.com/
     img: /images/logos/wofficebox.png/
     description: 办公必备小工具集
-
-bitTools:
-  - name: BIT
-    url: http://www.bit.edu.cn/
-    img: /images/logos/bit.jpg
-    description: 北京理工大学
-  - name: 综合服务平台
-    url: http://online.bit.edu.cn/eip/nonlogin/toFusionPortalWainPage.htm
-    img: /images/logos/bit-cloud.png
-    description: 北京理工大学综合信息服务平台|北理云
-  - name: 研究院
-    url: http://grd.bit.edu.cn/
-    img: /images/logos/bit-grd.png
-    description: 北京理工大学研究生院
-  - name: 图书馆
-    url: http://lib.bit.edu.cn/
-    img: /images/logos/bit.jpg
-    description: 北京理工大学图书馆
-  - name: 教务处
-    url: http://jwc.bit.edu.cn/
-    img: /images/logos/bit-jwc.png
-    description: 北京理工大学教务处
-  - name: 研究生管理系统
-    url: http://grdms.bit.edu.cn/yjs/login.jsp
-    img: /images/logos/bit-grdms.png
-    description: 研究生管理系统
-  - name: 就业信息网
-    url: http://job.bit.edu.cn/
-    img: /images/logos/bit-job.png
-    description: 北京理工大学就业信息网
-  - name: 网络信息服务中心
-    url: http://nsc.bit.edu.cn/
-    img: /images/logos/bit-nsc.png
-    description: 北京理工大学网络信息技术中心
-  - name: 正版软件管理平台
-    url: http://ca.bit.edu.cn/
-    img: /images/logos/bit-ca.png
-    description: 北京理工大学正版软件管理平台
-  - name: FTP联盟
-    url: http://www.bitunion.org/
-    img: /images/logos/bit-ftp.jpg
-    description: 做有争议的联盟，做有争议的人
-  - name: IPTV
-    url: http://iptv.bit.edu.cn/
-    img: /images/logos/bit-iptv.jpg
-    description: 北理工网络电视
-  - name: 邮箱
-    url: http://mail.bit.edu.cn/
-    img: /images/logos/bit-mail.jpg
-    description: 北理工邮箱系统
-  - name: 极速之星
-    url: https://bitpt.cn/
-    img: /images/logos/bit-pt.png
-    description: 北理工极速之星
-  - name: 宇航学院
-    url: http://sae.bit.edu.cn/
-    img: /images/logos/bit-sae.png
-    description: 北理工宇航学院
-  - name: 计算机学院
-    url: http://cs.bit.edu.cn/
-    img: /images/logos/bit-cs.png
-    description: 北理工计算机学院
-  - name: 机电学院
-    url: http://smen.bit.edu.cn/
-    img: /images/logos/bit-smen.png
-    description: 北理工机电学院
-  - name: 机车学院
-    url: http://me.bit.edu.cn/
-    img: /images/logos/bit-me.png
-    description: 北理工机械与车辆学院
-  - name: 自动化学院
-    url: http://ac.bit.edu.cn/
-    img: /images/logos/bit-ac.png
-    description: 北理工自动化学院
 
     #myBlog:
     #  - name: HJI.ZONE
