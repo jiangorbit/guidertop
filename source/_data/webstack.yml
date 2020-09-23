@@ -450,6 +450,10 @@ acadeTools:
     description: PaperPass论文检测.
 
 techMedia:
+  - name: Google AI Blog.
+    url: https://ai.googleblog.com/
+    img: /images/logos/googleblog-ai.png
+    description: The latest news from Google AI.
   - name: NASA Blogs
     url: https://blogs.nasa.gov/
     img: /images/logos/nasa-blog.png
@@ -482,10 +486,6 @@ techMedia:
     url: https://www.yanxishe.com/
     img: /images/logos/yanxishe.png
     description: AI研习社
-  - name: Google AI Blog.
-    url: https://ai.googleblog.com/
-    img: /images/logos/googleblog-ai.png
-    description: The latest news from Google AI.
 
 onlineIDEs:
   - name: Codespaces
