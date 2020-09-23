@@ -198,6 +198,10 @@ manageWorks:
     url: https://mendeley.com/
     img: /images/logos/mendeley.png
     description: Mendeley高效管理文献
+  - name: 晒书房
+    url: https://shaishufang.com/
+    img: /images/logos/shaishufang.png
+    description: 整理藏书，与附近书友分享
 
 mailWorks:
   - name: Outlook邮箱
