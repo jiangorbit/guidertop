@@ -450,6 +450,10 @@ acadeTools:
     description: PaperPass论文检测.
 
 techMedia:
+  - name: NASA Blogs
+    url: https://blogs.nasa.gov/
+    img: /images/logos/nasa-blog.png
+    description: NASA Blogs.
   - name: SPACE
     url: https://www.space.com/
     img: /images/logos/spacecom.png
@@ -478,14 +482,10 @@ techMedia:
     url: https://www.yanxishe.com/
     img: /images/logos/yanxishe.png
     description: AI研习社
-  - name: Google AI Blog
+  - name: Google AI Blog.
     url: https://ai.googleblog.com/
     img: /images/logos/googleblog-ai.png
     description: The latest news from Google AI.
-  - name: NASA Blogs
-    url: https://blogs.nasa.gov/
-    img: /images/logos/nasa-blog.png
-    description: NASA Blogs.
 
 onlineIDEs:
   - name: Codespaces
@@ -539,7 +539,7 @@ graTools:
   - name: Diagrams.net
     url: https://diagrams.net/
     img: /images/logos/diagramsnet.png
-    description: Flowchart Maker & Online Diagram Software Draw.io
+    description: Flowchart Maker & Online Diagram Software Draw
   - name: Tagxedo
     url: https://tagxedo.com/
     img: /images/logos/tagxedo.png
@@ -572,18 +572,10 @@ schwMessers:
     url: https://www.remove.bg/
     img: /images/logos/removebg.png
     description: Remove Background
-  - name: CODECOGS
-    url: https://codecogs.com/
-    img: /images/logos/codecogs.png
-    description: Open Source Scientific Library.
   - name: PDF转换器
     url: https://pdfdo.com/
     img: /images/logos/pdfdo.png
     description: PDF转换器
-  - name: 格式转换器
-    url: https://cloudconvert.com/
-    img: /images/logos/cloudconvert.png
-    description: 格式转换器
   - name: 在线视频压缩
     url: https://apowersoft.cn/compress-video-online/
     img: /images/logos/apowersoft-cvo.png
@@ -592,6 +584,14 @@ schwMessers:
     url: https://wofficebox.com/
     img: /images/logos/wofficebox.png
     description: 办公必备小工具集
+  - name: 格式转换器
+    url: https://cloudconvert.com/
+    img: /images/logos/cloudconvert.png
+    description: 格式转换器
+  - name: CODECOGS
+    url: https://codecogs.com/
+    img: /images/logos/codecogs.png
+    description: Open Source Scientific Library.
 
     #myBlog:
     #  - name: HJI.ZONE
