@@ -624,7 +624,7 @@ about:
 aboutPage:
   website:
     head: 关于本站
-    html: '<blockquote><p>本站Huan Jiang基于hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>制作的一个静态导航网站。</p></blockquote>'
+    html: '<blockquote><p>本站是Huan Jiang基于hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>制作的一个静态导航网站。</p></blockquote>'
   webmaster:
     head: 关于站长
     name: HJI.ZONE
