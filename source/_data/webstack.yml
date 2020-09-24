@@ -200,6 +200,14 @@ bitTools:
     url: http://ac.bit.edu.cn/
     img: /images/logos/bit-ac.png
     description: 北理工自动化学院
+  - name: 材料学院
+    url: http://mse.bit.edu.cn/
+    img: /images/logos/bit-mse.png
+    description: 北理工材料学院
+  - name: 光电学院
+    url: http://opt.bit.edu.cn/
+    img: /images/logos/bit-opt.png
+    description: 北理工光电学院
 
 cloudWorks:
   - name: Microsoft Office
