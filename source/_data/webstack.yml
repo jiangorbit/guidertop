@@ -437,9 +437,13 @@ openResources:
 
 acadeTools:
   - name: SCI影响因子查询
-    url: https://www.letpub.com.cn/index.php?papg=journalapp&view=search/
+    url: https://www.letpub.com.cn/index.php?pape=journalapp&view=search/
     img: /images/logos/letpub.png
     description: LetPub提供的期刊SCI影响因子查询服务
+  - name: The DOI System
+    url: https://doi.org/index.html/
+    img: /images/logos/doi.png
+    description: Digital Object Identifier System.
   - name: 中科院科技查新
     url: https://chaxin.las.ac.cn/novelty/embed/home.htm/
     img: /images/logos/chaxin-las.png
