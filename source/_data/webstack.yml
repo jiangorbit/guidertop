@@ -84,9 +84,9 @@ menu:
       - name: 开发工具
         icon: fa fa-cogs
         config: devTools
-      - name: 图文处理
+      - name: 图文助手
         icon: fa fa-image
-        config: graTools
+        config: graphTexts
       - name: 设计素材
         icon: fa fa-crop
         config: designTools
@@ -551,7 +551,7 @@ devTools:
     img: /images/logos/git-scm.png
     description: 开源分布式版本控制系统
 
-graTools:
+graphTexts:
   - name: LightPDF
     url: https://lightpdf.com/
     img: /images/logos/lightpdf.png
