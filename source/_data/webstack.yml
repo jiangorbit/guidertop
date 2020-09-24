@@ -650,11 +650,11 @@ aboutPage:
     head: 关于本站
     html: '<blockquote><p>本站是Huan Jiang基于hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>制作的一个静态导航网站。</p></blockquote>'
   webmaster:
-    head: 关于站长
-    name: HJI.ZONE
-    url: https://hji.zone/
-    img: /images/logos/hji.jpg
-    description: Huan Jiang's Information Zone.
+    #head: 关于站长
+    #name: HJI.ZONE
+    #url: https://hji.zone/
+    #img: /images/logos/hji.jpg
+    #description: Huan Jiang's Information Zone.
     html: '<br /><blockquote><p>需要添加链接请直接发送邮件到h.jiang@bit.edu.cn,最好提供下网站图标和简明介绍。</p></blockquote>'
     #html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
 
