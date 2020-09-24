@@ -74,7 +74,7 @@ menu:
         config: acadeTools
       - name: 科技媒体
         icon: far fa-flag
-        config: techMedia
+        config: communityMedia
   - name: 常用工具
     icon: fas fa-tools
     submenu:
@@ -457,7 +457,7 @@ acadeTools:
     img: /images/logos/paperpass.png
     description: PaperPass论文检测.
 
-techMedia:
+communityMedia:
   - name: 36Kr
     url: https://www.36kr.com/
     img: /images/logos/36kr.png
@@ -494,6 +494,10 @@ techMedia:
     url: https://www.techweb.com.cn/
     img: /images/logos/techweb.png
     description: 领先的互联网消费互动媒体
+  - name: 科学网
+    url: https://www.sciencenet.cn/
+    img: /images/logos/sciencenet.png
+    description: 全球华人科学社区
 
 onlineIDEs:
   - name: Codespaces
