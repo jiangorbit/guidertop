@@ -568,6 +568,10 @@ graTools:
     url: https://tagxedo.com/
     img: /images/logos/tagxedo.png
     description: Word cloud with styles.
+  - name: 文献翻译
+    url: https://www.scitranslate.com/
+    img: /images/logos/scitranslate.png
+    description: 文献翻译神器
 
 designTools:
   - name: Unsplash
