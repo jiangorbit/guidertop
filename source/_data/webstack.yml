@@ -272,6 +272,10 @@ manageWorks:
     url: https://mendeley.com/
     img: /images/logos/mendeley.png
     description: Mendeley高效管理文献
+  - name: zotero
+    url: https://zotero.org/
+    img: /images/logos/zotero.png
+    description: Your personal research assistant.
   - name: 晒书房
     url: https://shaishufang.com/
     img: /images/logos/shaishufang.png
@@ -432,10 +436,10 @@ openResources:
     description: 清华开源软件镜像站
 
 acadeTools:
-  - name: zotero
-    url: https://zotero.org/
-    img: /images/logos/zotero.png
-    description: Your personal research assistant.
+  - name: SCI影响因子查询
+    url: https://www.letpub.com.cn/index.php?papg=journalapp&view=search/
+    img: /images/logos/letpub.png
+    description: LetPub提供的期刊SCI影响因子查询服务
   - name: 中科院科技查新
     url: https://chaxin.las.ac.cn/novelty/embed/home.htm/
     img: /images/logos/chaxin-las.png
