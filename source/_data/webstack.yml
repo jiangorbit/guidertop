@@ -389,7 +389,7 @@ sciPublishers:
 
 onlineLibraries:
   - name: Library Genesis
-    url: https://libgen.rs
+    url: http://libgen.rs
     img: /images/logos/libgen.png
     description: Library Genesis.
   - name: Open Library
