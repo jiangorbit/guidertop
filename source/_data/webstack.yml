@@ -72,7 +72,7 @@ menu:
       - name: 学术工具
         icon: fa fa-inbox
         config: acadeTools
-      - name: 科技媒体
+      - name: 社区媒体
         icon: far fa-flag
         config: communityMedia
   - name: 常用工具
