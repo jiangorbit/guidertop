@@ -117,7 +117,7 @@ hotSites:
   - name: Stack Overflow
     url: https://stackoverflow.com/
     img: /images/logos/stackoverflow.png
-    description: Where Developers Learn,Share & Build Careers.
+    description: Where Developers Learn, Share & Build Careers.
   - name: Wikipedia
     url: https://www.wikipedia.org/
     img: /images/logos/wikipedia.png
@@ -434,6 +434,10 @@ openResources:
     url: https://mirrors.tuna.tsinghua.edu.cn/
     img: /images/logos/tsinghua-tuna.png
     description: 清华开源软件镜像站
+  - name: Sci-Hub文献检索
+    url: https://sci-hub.org.cn/
+    img: /images/logos/scihuborgcn.png
+    description: Sci-Hub文献检索|科学是照亮世界的火把
 
 acadeTools:
   - name: SCI影响因子查询
