@@ -459,7 +459,7 @@ acadeTools:
   - name: Web of Science
     url: https://apps.webofknowledge.com/
     img: /images/logos/webofknowledge.png
-    description: Web of Science.
+    description: 科研动态,论文收录引用查询,期刊学术水平评价
   - name: SCI影响因子查询
     url: https://www.letpub.com.cn/index.php?pape=journalapp&view=search/
     img: /images/logos/letpub.png
@@ -472,6 +472,10 @@ acadeTools:
     url: https://chaxin.las.ac.cn/novelty/embed/home.htm/
     img: /images/logos/chaxin-las.png
     description: 中国科学院文献情报中心
+  - name: Engineering Village
+    url: https://www.engineeringvillage.com/home.url
+    img: /images/logos/elsevier.png
+    description: Engineering Village
   - name: Plagiarisma
     url: https://plagiarisma.net/cn/
     img: /images/logos/plagiarisma.png
