@@ -368,6 +368,10 @@ journalCons:
     url: https://arc.aiaa.org/loi/jgcd/
     img: /images/logos/journals-jgcd.png
     description: journal of Guidance, Control, and Dynamics.
+  - name: CJA
+    url: http://hkxb.buaa.edu.cn/CN/model/index.shtml
+    img: /images/logos/journals-cja.png
+    description: Chinese Journal of Aeronautics.
 
 sciPublishers:
   - name: Taylor & Francis
