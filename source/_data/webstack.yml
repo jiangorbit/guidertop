@@ -367,7 +367,7 @@ journalCons:
   - name: JGCD
     url: https://arc.aiaa.org/loi/jgcd/
     img: /images/logos/journals-jgcd.png
-    description: journal of Guidance, Control, and Dynamics.
+    description: Journal of Guidance, Control, and Dynamics.
   - name: CJA
     url: http://hkxb.buaa.edu.cn/CN/model/index.shtml
     img: /images/logos/journals-cja.png
