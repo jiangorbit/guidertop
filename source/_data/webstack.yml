@@ -456,6 +456,10 @@ openResources:
     description: Sci-Hub文献检索|科学是照亮世界的火把
 
 acadeTools:
+  - name: Web of Science
+    url: https://apps.webofknowledge.com/
+    img: /images/logos/webofknowledge.png
+    description: PaperPass论文检测.
   - name: SCI影响因子查询
     url: https://www.letpub.com.cn/index.php?pape=journalapp&view=search/
     img: /images/logos/letpub.png
