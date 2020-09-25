@@ -459,7 +459,7 @@ acadeTools:
   - name: Web of Science
     url: https://apps.webofknowledge.com/
     img: /images/logos/webofknowledge.png
-    description: PaperPass论文检测.
+    description: Web of Science.
   - name: SCI影响因子查询
     url: https://www.letpub.com.cn/index.php?pape=journalapp&view=search/
     img: /images/logos/letpub.png
