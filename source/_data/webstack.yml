@@ -405,7 +405,7 @@ onlineLibraries:
     img: /images/logos/opentextbook.png
     description: Open Textbook Library.
   - name: FreeTechBooks
-    url: https://freetechbooks.com/
+    url: https://www.freetechbooks.com/
     img: /images/logos/freetechbooks.png
     description: Database of Free Computer Science and Programming Books, Textbooks, and Lecture Notes.
 
