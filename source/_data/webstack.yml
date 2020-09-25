@@ -457,7 +457,7 @@ openResources:
 
 acadeTools:
   - name: Web of Science
-    url: https://apps.webofknowledge.com/
+    url: http://apps.webofknowledge.com/UA_GeneralSearch_input.do;jsessionid=98A2389D4EB2835E6AFEAE79AC766E4B?product=UA&search_mode=GeneralSearch&SID=8CQROoEQqorNAjXG2wz&preferencesSaved=
     img: /images/logos/webofknowledge.png
     description: 科研动态,论文收录引用查询,期刊学术水平评价
   - name: SCI影响因子查询
