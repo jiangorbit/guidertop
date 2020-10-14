@@ -592,6 +592,10 @@ graphTexts:
     url: https://app.grammarly.com/
     img: /images/logos/grammarly.png
     description: 英文写作语法与拼写检查辅助工具
+  - name: LaTeX公式编辑器
+    url: https://www.latexlive.com/##
+    img: /images/logos/latexlive.png
+    description: Convert LaTeX equations to SVG using MathJaX
   - name: Mathpix Snip
     url: https://mathpix.com/
     img: /images/logos/mathpix.png
