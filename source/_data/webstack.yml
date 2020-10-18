@@ -624,7 +624,7 @@ schwMessers:
     url: https://deeplor.com/
     img: /images/logos/deeplor.png
     description: 在线抠图
-  - name: removegb
+  - name: removebg
     url: https://www.remove.bg/
     img: /images/logos/removebg.png
     description: Remove Background
