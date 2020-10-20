@@ -648,6 +648,10 @@ schwMessers:
     url: https://codecogs.com/
     img: /images/logos/codecogs.png
     description: Open Source Scientific Library.
+  - name: OCRMAKER
+    url: https://www.ocrmaker.com/
+    img: /images/logos/ocrmaker.png
+    description: 免费在线文字识别，文字提取，OCR服务.
 
     #myBlog:
     #  - name: HJI.ZONE
