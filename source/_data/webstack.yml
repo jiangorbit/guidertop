@@ -351,7 +351,7 @@ literDatas:
     img: /images/logos/cnki.png
     description: 中国知网
   - name: 万方数据
-    url: https://www.wanfangdata.com.cn/index.html/
+    url: https://www.wanfangdata.com.cn/index.html
     img: /images/logos/wanfangdata.png
     description: 万方数据知识服务平台
 
