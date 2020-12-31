@@ -18,7 +18,7 @@ menu:
   - name: 常用推荐
     icon: far fa-star
     config: hotSites
-  - name: BITREN
+  - name: GUIDER
     icon: fa fa-home
     config: bitTools
   - name: 办公学习
