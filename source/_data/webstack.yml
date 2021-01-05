@@ -600,6 +600,10 @@ graphTexts:
     url: https://mathpix.com/
     img: /images/logos/mathpix.png
     description: 数学公式识别生成Latex代码的神器
+  - name: ESODA易搜搭
+    url: http://www.esoda.org/
+    img: /images/logos/esoda.png
+    description: 专业英文论文写作助手
 
 designTools:
   - name: Unsplash
