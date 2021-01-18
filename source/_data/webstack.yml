@@ -610,6 +610,10 @@ designTools:
     url: https://unsplash.com/
     img: /images/logos/unsplash.png
     description: Photos for everyone
+  - name: Wallhaven
+    url: https://wallhaven.cc/
+    img: /images/logos/wallhaven.png
+    description: Awesome wallpapers
   - name: AI画伯
     url: https://ai-art.tokyo/en/
     img: /images/logos/ai-art.png
