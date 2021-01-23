@@ -568,6 +568,10 @@ devTools:
     description: 开源分布式版本控制系统
 
 graphTexts:
+  - name: DeepL
+    url: https://deepl.com/home
+    img: /images/logos/deepl.jpg
+    description: DeepL Translater
   - name: LightPDF
     url: https://lightpdf.com/
     img: /images/logos/lightpdf.png
