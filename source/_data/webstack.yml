@@ -660,6 +660,10 @@ schwMessers:
     url: http://www.ocrmaker.com/
     img: /images/logos/ocrmaker.png
     description: 免费在线文字识别，文字提取，OCR服务.
+  - name: Aconvert
+    url: http://www.aconvert.com/cn/
+    img: /images/logos/aconvert.png
+    description: Convert document, image, vedio and audio files online
 
     #myBlog:
     #  - name: HJI.ZONE
