@@ -126,6 +126,10 @@ hotSites:
     url: https://youtube.com/
     img: /images/logos/youtube.png
     description: 全球最大的视频分享平台
+  - name: Weibo
+    url: https://www.weibo.com/
+    img: /images/logos/weibo.jpg
+    description: 微博-随时随地发现新鲜事
 
 bitTools:
   - name: BIT
