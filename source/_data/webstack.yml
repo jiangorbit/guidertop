@@ -488,6 +488,10 @@ acadeTools:
     url: https://paperpass.com/
     img: /images/logos/paperpass.png
     description: PaperPass论文检测.
+  - name:   CONNECTED PAPERS
+    url: https://www.connectedpapers.com
+    img: /images/logos/connectedpapers.jpg
+    description: Connected Papers | Find and explore academic papers
 
 communityMedia:
   - name: 36Kr
@@ -616,6 +620,10 @@ graphTexts:
     url: http://www.esoda.org/
     img: /images/logos/esoda.png
     description: 专业英文论文写作助手
+  - name: Tables Generator
+    url: https://tablesgenerator.com/
+    img: /images/logos/tablesgenerator.png
+    description: Create LaTeX tables online
 
 designTools:
   - name: Unsplash
