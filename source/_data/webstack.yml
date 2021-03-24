@@ -324,6 +324,10 @@ driveWorks:
     url: https://icloud.com/
     img: /images/logos/icloud.png
     description: iCloud
+  - name: 阿里云盘
+    url: https://www.aliyundrive.com/
+    img: /images/logos/aliyundrive.png
+    description: Dropbox
   - name: 坚果云盘
     url: https://www.jianguoyun.com/
     img: /images/logos/jianguoyun.png
