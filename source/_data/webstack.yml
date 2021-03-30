@@ -628,6 +628,10 @@ graphTexts:
     url: https://tablesgenerator.com/
     img: /images/logos/tablesgenerator.png
     description: Create LaTeX tables online
+  - name: Hiplot
+    url: https://hiplot.com.cn
+    img: /images/logos/hiplot.png
+    description: Visualization of Scientific Data
 
 designTools:
   - name: Unsplash
