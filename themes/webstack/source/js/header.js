@@ -30,7 +30,7 @@ function search() {
             name: "SCI-HUB",
             img: "url('/images/search_icon.png') -80px -50px",
             position: "0px -80px",
-            url: "https://sci-hub.tw?query="
+            url: "https://sci-hub.ren?query="
         }, {
             name: "Mag[i]",
             img: "url('/images/search_icon.png') -105px -50px",
