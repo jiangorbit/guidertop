@@ -54,6 +54,9 @@ menu:
       - name: 学术出版
         icon: fas fa-book
         config: sciPublishers
+      - name: 学术工具
+        icon: fa fa-inbox
+        config: acadeTools
   - name: 科研服务
     icon: far fa-thumbs-up
     submenu:
@@ -69,9 +72,6 @@ menu:
       - name: 开源资源
         icon: fas fa-th
         config: openResources
-      - name: 学术工具
-        icon: fa fa-inbox
-        config: acadeTools
       - name: 社区媒体
         icon: far fa-flag
         config: communityMedia
@@ -399,6 +399,40 @@ sciPublishers:
     img: /images/logos/wileyonline.png
     description: Wiley Online Library.
 
+acadeTools:
+  - name: Web of Science
+    url: http://apps.webofknowledge.com/UA_GeneralSearch_input.do;jsessionid=98A2389D4EB2835E6AFEAE79AC766E4B?product=UA&search_mode=GeneralSearch&SID=8CQROoEQqorNAjXG2wz&preferencesSaved=
+    img: /images/logos/webofknowledge.png
+    description: 科研动态,论文收录引用查询,期刊学术水平评价
+  - name: SCI影响因子查询
+    url: https://www.letpub.com.cn/index.php?pape=journalapp&view=search/
+    img: /images/logos/letpub.png
+    description: LetPub提供的期刊SCI影响因子查询服务
+  - name: The DOI System
+    url: https://doi.org/index.html/
+    img: /images/logos/doi.png
+    description: Digital Object Identifier System.
+  - name: 中科院科技查新
+    url: https://chaxin.las.ac.cn/novelty/embed/home.htm/
+    img: /images/logos/chaxin-las.png
+    description: 中国科学院文献情报中心
+  - name: Engineering Village
+    url: https://www.engineeringvillage.com/home.url
+    img: /images/logos/elsevier.png
+    description: Engineering Village
+  - name: Plagiarisma
+    url: https://plagiarisma.net/cn/
+    img: /images/logos/plagiarisma.png
+    description: 免费论文检测查重
+  - name: PaperPass
+    url: https://paperpass.com/
+    img: /images/logos/paperpass.png
+    description: PaperPass论文检测.
+  - name:   CONNECTED PAPERS
+    url: https://www.connectedpapers.com
+    img: /images/logos/connectedpapers.jpg
+    description: Connected Papers | Find and explore academic papers
+
 onlineLibraries:
   - name: Library Genesis
     url: http://libgen.rs/
@@ -463,39 +497,6 @@ openResources:
     img: /images/logos/scihuborgcn.png
     description: Sci-Hub文献检索|科学是照亮世界的火把
 
-acadeTools:
-  - name: Web of Science
-    url: http://apps.webofknowledge.com/UA_GeneralSearch_input.do;jsessionid=98A2389D4EB2835E6AFEAE79AC766E4B?product=UA&search_mode=GeneralSearch&SID=8CQROoEQqorNAjXG2wz&preferencesSaved=
-    img: /images/logos/webofknowledge.png
-    description: 科研动态,论文收录引用查询,期刊学术水平评价
-  - name: SCI影响因子查询
-    url: https://www.letpub.com.cn/index.php?pape=journalapp&view=search/
-    img: /images/logos/letpub.png
-    description: LetPub提供的期刊SCI影响因子查询服务
-  - name: The DOI System
-    url: https://doi.org/index.html/
-    img: /images/logos/doi.png
-    description: Digital Object Identifier System.
-  - name: 中科院科技查新
-    url: https://chaxin.las.ac.cn/novelty/embed/home.htm/
-    img: /images/logos/chaxin-las.png
-    description: 中国科学院文献情报中心
-  - name: Engineering Village
-    url: https://www.engineeringvillage.com/home.url
-    img: /images/logos/elsevier.png
-    description: Engineering Village
-  - name: Plagiarisma
-    url: https://plagiarisma.net/cn/
-    img: /images/logos/plagiarisma.png
-    description: 免费论文检测查重
-  - name: PaperPass
-    url: https://paperpass.com/
-    img: /images/logos/paperpass.png
-    description: PaperPass论文检测.
-  - name:   CONNECTED PAPERS
-    url: https://www.connectedpapers.com
-    img: /images/logos/connectedpapers.jpg
-    description: Connected Papers | Find and explore academic papers
 
 communityMedia:
   - name: 36Kr
