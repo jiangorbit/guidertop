@@ -48,6 +48,9 @@ menu:
       - name: 文献数据
         icon: fa fa-cubes
         config: literDatas
+      - name: 在线文库
+        icon: fa fa-copy
+        config: onlineLibraries
       - name: 期刊会议
         icon: fa fa-fire
         config: journalCons
@@ -60,9 +63,6 @@ menu:
   - name: 科研服务
     icon: far fa-thumbs-up
     submenu:
-      - name: 在线文库
-        icon: fa fa-copy
-        config: onlineLibraries
       - name: 科研软件
         icon: fa fa-window-restore
         config: sciSoftwares
@@ -363,6 +363,28 @@ literDatas:
     img: /images/logos/wanfangdata.png
     description: 万方数据知识服务平台
 
+onlineLibraries:
+  - name: Library Genesis
+    url: http://libgen.rs/
+    img: /images/logos/libgen.png
+    description: Library Genesis.
+  - name: Open Library
+    url: https://openlibrary.org/
+    img: /images/logos/openlib.png
+    description: Open Library.
+  - name: dblp 计算机科学书目库
+    url: https://dblp.uni-trier.de/
+    img: /images/logos/dblp.png
+    description: Computer Science Bibliography.
+  - name: Open Textbook Library
+    url: https://open.umn.edu/opentextbooks/
+    img: /images/logos/opentextbook.png
+    description: Open Textbook Library.
+  - name: FreeTechBooks
+    url: https://www.freetechbooks.com/
+    img: /images/logos/freetechbooks.png
+    description: Database of Free Computer Science and Programming Books, Textbooks, and Lecture Notes.
+
 journalCons:
   - name: ACTA
     url: https://sciencedirect.com/journal/acta-astronautia/
@@ -433,27 +455,6 @@ acadeTools:
     img: /images/logos/connectedpapers.jpg
     description: Connected Papers | Find and explore academic papers
 
-onlineLibraries:
-  - name: Library Genesis
-    url: http://libgen.rs/
-    img: /images/logos/libgen.png
-    description: Library Genesis.
-  - name: Open Library
-    url: https://openlibrary.org/
-    img: /images/logos/openlib.png
-    description: Open Library.
-  - name: dblp 计算机科学书目库
-    url: https://dblp.uni-trier.de/
-    img: /images/logos/dblp.png
-    description: Computer Science Bibliography.
-  - name: Open Textbook Library
-    url: https://open.umn.edu/opentextbooks/
-    img: /images/logos/opentextbook.png
-    description: Open Textbook Library.
-  - name: FreeTechBooks
-    url: https://www.freetechbooks.com/
-    img: /images/logos/freetechbooks.png
-    description: Database of Free Computer Science and Programming Books, Textbooks, and Lecture Notes.
 
 sciSoftwares:
   - name: MATLAB
