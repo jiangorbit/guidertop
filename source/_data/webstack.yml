@@ -63,12 +63,15 @@ menu:
   - name: 科研服务
     icon: far fa-thumbs-up
     submenu:
-      - name: 科研软件
-        icon: fa fa-window-restore
-        config: sciSoftwares
+      - name: 科研平台
+        icon: fas fa-bank
+        config: sciPlatforms
       - name: 数据中心
         icon: fas fa-database
         config: dataCenters
+      - name: 科研软件
+        icon: fa fa-window-restore
+        config: sciSoftwares
       - name: 开源资源
         icon: fas fa-th
         config: openResources
@@ -456,20 +459,7 @@ acadeTools:
     description: Connected Papers | Find and explore academic papers
 
 
-sciSoftwares:
-  - name: MATLAB
-    url: https://www.mathworks.com/
-    img: /images/logos/matlab.png
-    description: MATLAB
-  - name: Octave
-    url: https://www.gun.org/software/octave/
-    img: /images/logos/octave.png
-    description: GUN Octave.
-  - name: Anaconda
-    url: https://www.anaconda.com/
-    img: /images/logos/anaconda.png
-    description: The World's Most Popular Data Science Platform.
-
+sciPlatforms:
 dataCenters:
   - name: 中科院数据云
     url: https://csdb.cn/
@@ -487,6 +477,20 @@ dataCenters:
     url: https://ac.scmor.com/
     img: /images/logos/scmor.png
     description: Google学术镜像导航
+
+sciSoftwares:
+  - name: MATLAB
+    url: https://www.mathworks.com/
+    img: /images/logos/matlab.png
+    description: MATLAB
+  - name: Octave
+    url: https://www.gun.org/software/octave/
+    img: /images/logos/octave.png
+    description: GUN Octave.
+  - name: Anaconda
+    url: https://www.anaconda.com/
+    img: /images/logos/anaconda.png
+    description: The World's Most Popular Data Science Platform.
 
 openResources:
   - name: 清华开源软件镜像站
