@@ -64,7 +64,7 @@ menu:
     icon: far fa-thumbs-up
     submenu:
       - name: 科研平台
-        icon: fas fa-bank
+        icon: fa fa-th-list
         config: sciPlatforms
       - name: 数据中心
         icon: fas fa-database
