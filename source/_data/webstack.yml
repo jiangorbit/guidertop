@@ -368,7 +368,7 @@ literDatas:
 
 onlineLibraries:
   - name: Library Genesis
-    url: http://libgen.rs/
+    url: http://libgen.li/
     img: /images/logos/libgen.png
     description: Library Genesis.
   - name: Open Library
