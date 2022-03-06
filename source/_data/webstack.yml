@@ -135,10 +135,10 @@ hotSites:
     description: 微博-随时随地发现新鲜事
 
 bitTools:
-  - name: BIT
-    url: http://www.bit.edu.cn/
+  - name: Elicit
+    url: https://elicit.org/
     img: /images/logos/bit.jpg
-    description: 北京理工大学
+    description: The AI Research Assistant
   - name: 综合服务平台
     url: http://online.bit.edu.cn/eip/nonlogin/toFusionPortalMainPage.htm
     img: /images/logos/bit-cloud.png
