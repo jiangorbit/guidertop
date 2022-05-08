@@ -496,6 +496,9 @@ sciSoftwares:
     url: https://www.anaconda.com/
     img: /images/logos/anaconda.png
     description: The World's Most Popular Data Science Platform.
+  - name: GeoGebra
+    url: https://www.geogebra.org/
+    description: 数学教学软件
 
 openResources:
   - name: 清华开源软件镜像站
