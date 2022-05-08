@@ -137,11 +137,11 @@ hotSites:
 bitTools:
   - name: Elicit
     url: https://elicit.org/
-    img: /images/logos/bit.jpg
+    img: /images/logos/elicit.jpg
     description: The AI Research Assistant
-  - name: 综合服务平台
-    url: http://online.bit.edu.cn/eip/nonlogin/toFusionPortalMainPage.htm
-    img: /images/logos/bit-cloud.png
+  - name: Petal Search
+    url: https://petalsearch.com/
+    img: /images/logos/petalsearch.png
     description: 北京理工大学综合信息服务平台|北理云
   - name: 研究院
     url: http://grd.bit.edu.cn/
