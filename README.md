@@ -1,3 +1,3 @@
-# guidertop
+# Guider.Top
 This is an academic guide home page.
-Design by Viggo, power by Hexo & hexo-theme-webstack.
+Page Template design by Viggo, power by Hexo & hexo-theme-webstack.
