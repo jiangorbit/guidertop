@@ -139,10 +139,10 @@ bitTools:
     url: https://elicit.org/
     img: /images/logos/elicit.jpg
     description: The AI Research Assistant
-  - name: Petal Search
+  - name: Petalsearch.com
     url: https://petalsearch.com/
     img: /images/logos/petalsearch.png
-    description: 北京理工大学综合信息服务平台|北理云
+    description: Petal Search 
   - name: 研究院
     url: http://grd.bit.edu.cn/
     img: /images/logos/bit-grd.png
