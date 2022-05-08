@@ -498,6 +498,7 @@ sciSoftwares:
     description: The World's Most Popular Data Science Platform.
   - name: GeoGebra
     url: https://www.geogebra.org/
+    img: /images/logos/geogebra.jpg
     description: 数学教学软件
 
 openResources:
