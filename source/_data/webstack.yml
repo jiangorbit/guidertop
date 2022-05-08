@@ -551,6 +551,9 @@ communityMedia:
     description: 全球华人科学社区
 
 onlineIDEs:
+  - name: Cppinsights.io
+    url: https://cppinsights.io/
+    img: /images/logos/cppinsights.png
   - name: Codespaces
     url: https://github.com/features/codespaces/
     img: /images/logos/github.png
