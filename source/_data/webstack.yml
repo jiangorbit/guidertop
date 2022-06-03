@@ -143,9 +143,9 @@ bitTools:
     url: https://petalsearch.com/
     img: /images/logos/petalsearch.png
     description: Petal Search 
-  - name: 研究院
+  - name: 边写边搜
     url: https://app.fir.ai/
-    img: /images/logos/firapp.png
+    img: /images/logos/firapp.jpg
     description: 边写边搜 | 快速成文
   - name: 图书馆
     url: http://lib.bit.edu.cn/
