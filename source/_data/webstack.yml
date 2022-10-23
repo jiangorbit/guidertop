@@ -466,6 +466,10 @@ sciPlatforms:
     description: 中国科学院数据云
 
 dataCenters:
+  - name: 国家自然科学基金
+    url: https://kd.nsfc.gov.cn/
+    img: /images/logos/kdnsfc.png
+    description: 大数据知识管理服务门户
   - name: 中科院数据云
     url: https://csdb.cn/
     img: /images/logos/csdb.png
