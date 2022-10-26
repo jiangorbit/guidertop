@@ -672,6 +672,10 @@ designTools:
     url: https://www.blobmaker.app/
     img: /images/logos/blobmaker.png
     description: 不规则圆形生成器
+  - name: Color Space
+    url: https://mycolor.space/
+    img: /images/logos/mycolorspace.png
+    descripation: Palettes Generator
 
 schwMessers:
   - name: Inpaint
