@@ -654,6 +654,10 @@ graphTexts:
     url: https://hiplot.com.cn
     img: /images/logos/hiplot.png
     description: Visualization of Scientific Data
+  - name: ChiPlot
+    url: https://www.chiplot.online/
+    img: /images/logos/chiplot.png
+    description: ChiPlot Online
 
 designTools:
   - name: Unsplash
