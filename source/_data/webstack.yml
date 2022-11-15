@@ -155,14 +155,14 @@ bitTools:
     url: https://www.connectedpapers.com
     img: /images/logos/connectedpapers.jpg
     description: Connected Papers | Find and explore academic papers
-  - name: 研究生管理系统
-    url: http://grdms.bit.edu.cn/yjs/login.jsp
-    img: /images/logos/bit-grdms.png
-    description: 研究生管理系统
-  - name: 就业信息网
-    url: http://job.bit.edu.cn/
-    img: /images/logos/bit-job.png
-    description: 北京理工大学就业信息网
+  - name: 学吧导航
+    url: https://www.xue8nav.com/
+    img: /images/logos/xue8nav.png
+    description: 十四万学习爱好者都在用的学霸导航网站
+  - name: 科塔学术导航
+    url: https://site.sciping.com/
+    img: /images/logos/SCIPingLogo2.png
+    description: 科塔学术导航
   - name: 网络信息服务中心
     url: http://nsc.bit.edu.cn/
     img: /images/logos/bit-nsc.png
